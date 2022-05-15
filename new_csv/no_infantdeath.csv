@@ -1,0 +1,3493 @@
+country,year,sex,no_infantdeath
+Afghanistan,2016,Both sexes,60673.0
+Afghanistan,2018,Female,25788.0
+Afghanistan,2017,Both sexes,58846.0
+Afghanistan,2017,Male,32244.0
+Afghanistan,2017,Female,26602.0
+Afghanistan,2018,Male,31394.0
+Afghanistan,2013,Female,30498.0
+Afghanistan,2013,Male,36656.0
+Afghanistan,2013,Both sexes,67154.0
+Afghanistan,2018,Both sexes,57182.0
+Afghanistan,2014,Male,35410.0
+Afghanistan,2015,Both sexes,62652.0
+Afghanistan,2016,Female,27451.0
+Afghanistan,2016,Male,33222.0
+Afghanistan,2015,Female,28395.0
+Afghanistan,2015,Male,34257.0
+Afghanistan,2014,Female,29398.0
+Afghanistan,2014,Both sexes,64808.0
+Albania,2015,Female,132.0
+Albania,2016,Both sexes,289.0
+Albania,2016,Male,162.0
+Albania,2018,Male,150.0
+Albania,2018,Female,118.0
+Albania,2017,Both sexes,278.0
+Albania,2017,Male,156.0
+Albania,2017,Female,122.0
+Albania,2016,Female,127.0
+Albania,2015,Male,170.0
+Albania,2018,Both sexes,268.0
+Albania,2015,Both sexes,302.0
+Albania,2013,Female,147.0
+Albania,2013,Male,191.0
+Albania,2013,Both sexes,338.0
+Albania,2014,Female,139.0
+Albania,2014,Male,179.0
+Albania,2014,Both sexes,318.0
+Algeria,2018,Female,9316.0
+Algeria,2017,Both sexes,21082.0
+Algeria,2018,Male,11275.0
+Algeria,2018,Both sexes,20591.0
+Algeria,2014,Male,11602.0
+Algeria,2013,Male,11447.0
+Algeria,2013,Both sexes,21138.0
+Algeria,2014,Female,9756.0
+Algeria,2017,Female,9549.0
+Algeria,2014,Both sexes,21358.0
+Algeria,2015,Female,9768.0
+Algeria,2015,Male,11687.0
+Algeria,2015,Both sexes,21455.0
+Algeria,2016,Female,9706.0
+Algeria,2016,Male,11665.0
+Algeria,2016,Both sexes,21371.0
+Algeria,2013,Female,9691.0
+Algeria,2017,Male,11533.0
+Andorra,2016,Female,1.0
+Andorra,2018,Male,1.0
+Andorra,2013,Female,1.0
+Andorra,2013,Male,1.0
+Andorra,2013,Both sexes,2.0
+Andorra,2014,Female,1.0
+Andorra,2014,Male,1.0
+Andorra,2014,Both sexes,2.0
+Andorra,2015,Female,1.0
+Andorra,2015,Male,1.0
+Andorra,2015,Both sexes,2.0
+Andorra,2016,Male,1.0
+Andorra,2016,Both sexes,2.0
+Andorra,2017,Female,1.0
+Andorra,2017,Male,1.0
+Andorra,2018,Both sexes,2.0
+Andorra,2017,Both sexes,2.0
+Andorra,2018,Female,1.0
+Angola,2018,Male,35532.0
+Angola,2013,Female,31571.0
+Angola,2013,Male,39522.0
+Angola,2018,Female,28135.0
+Angola,2017,Female,28538.0
+Angola,2017,Male,36114.0
+Angola,2013,Both sexes,71093.0
+Angola,2014,Male,38472.0
+Angola,2014,Female,30583.0
+Angola,2015,Female,29756.0
+Angola,2015,Male,37492.0
+Angola,2015,Both sexes,67248.0
+Angola,2017,Both sexes,64652.0
+Angola,2016,Female,29086.0
+Angola,2016,Male,36717.0
+Angola,2016,Both sexes,65803.0
+Angola,2014,Both sexes,69055.0
+Angola,2018,Both sexes,63667.0
+Antigua and Barbuda,2016,Both sexes,8.0
+Antigua and Barbuda,2015,Both sexes,8.0
+Antigua and Barbuda,2016,Female,4.0
+Antigua and Barbuda,2018,Both sexes,7.0
+Antigua and Barbuda,2017,Female,3.0
+Antigua and Barbuda,2017,Male,5.0
+Antigua and Barbuda,2017,Both sexes,8.0
+Antigua and Barbuda,2018,Female,3.0
+Antigua and Barbuda,2018,Male,4.0
+Antigua and Barbuda,2016,Male,4.0
+Antigua and Barbuda,2015,Male,4.0
+Antigua and Barbuda,2014,Both sexes,9.0
+Antigua and Barbuda,2014,Male,5.0
+Antigua and Barbuda,2014,Female,4.0
+Antigua and Barbuda,2013,Both sexes,9.0
+Antigua and Barbuda,2013,Male,5.0
+Antigua and Barbuda,2013,Female,4.0
+Antigua and Barbuda,2015,Female,4.0
+Argentina,2013,Male,4722.0
+Argentina,2013,Both sexes,8462.0
+Argentina,2014,Female,3575.0
+Argentina,2014,Male,4505.0
+Argentina,2014,Both sexes,8080.0
+Argentina,2015,Female,3415.0
+Argentina,2015,Male,4295.0
+Argentina,2015,Both sexes,7710.0
+Argentina,2018,Male,3701.0
+Argentina,2018,Both sexes,6673.0
+Argentina,2018,Female,2972.0
+Argentina,2017,Both sexes,7001.0
+Argentina,2017,Male,3882.0
+Argentina,2017,Female,3119.0
+Argentina,2016,Male,4093.0
+Argentina,2016,Both sexes,7350.0
+Argentina,2013,Female,3740.0
+Argentina,2016,Female,3257.0
+Armenia,2016,Both sexes,523.0
+Armenia,2018,Female,192.0
+Armenia,2018,Male,266.0
+Armenia,2017,Both sexes,490.0
+Armenia,2017,Male,286.0
+Armenia,2017,Female,204.0
+Armenia,2013,Female,258.0
+Armenia,2013,Male,366.0
+Armenia,2013,Both sexes,624.0
+Armenia,2014,Female,244.0
+Armenia,2014,Male,346.0
+Armenia,2014,Both sexes,590.0
+Armenia,2015,Female,231.0
+Armenia,2015,Both sexes,556.0
+Armenia,2016,Female,218.0
+Armenia,2016,Male,305.0
+Armenia,2018,Both sexes,458.0
+Armenia,2015,Male,325.0
+Australia,2015,Male,566.0
+Australia,2018,Male,548.0
+Australia,2016,Both sexes,1005.0
+Australia,2016,Male,558.0
+Australia,2016,Female,447.0
+Australia,2015,Both sexes,1019.0
+Australia,2015,Female,453.0
+Australia,2014,Both sexes,1040.0
+Australia,2014,Male,577.0
+Australia,2018,Both sexes,988.0
+Australia,2014,Female,463.0
+Australia,2013,Male,596.0
+Australia,2013,Female,475.0
+Australia,2017,Female,444.0
+Australia,2017,Male,553.0
+Australia,2017,Both sexes,997.0
+Australia,2018,Female,440.0
+Australia,2013,Both sexes,1071.0
+Austria,2018,Male,142.0
+Austria,2018,Both sexes,253.0
+Austria,2017,Female,112.0
+Austria,2017,Male,142.0
+Austria,2018,Female,111.0
+Austria,2017,Both sexes,254.0
+Austria,2014,Female,113.0
+Austria,2016,Both sexes,254.0
+Austria,2016,Male,142.0
+Austria,2016,Female,112.0
+Austria,2015,Both sexes,255.0
+Austria,2015,Male,143.0
+Austria,2015,Female,112.0
+Austria,2014,Both sexes,257.0
+Austria,2014,Male,144.0
+Austria,2013,Both sexes,261.0
+Austria,2013,Male,146.0
+Austria,2013,Female,115.0
+Azerbaijan,2013,Male,2744.0
+Azerbaijan,2013,Female,1956.0
+Azerbaijan,2018,Male,1876.0
+Azerbaijan,2017,Male,2045.0
+Azerbaijan,2018,Female,1360.0
+Azerbaijan,2013,Both sexes,4700.0
+Azerbaijan,2017,Female,1475.0
+Azerbaijan,2017,Both sexes,3520.0
+Azerbaijan,2014,Female,1850.0
+Azerbaijan,2018,Both sexes,3236.0
+Azerbaijan,2014,Both sexes,4439.0
+Azerbaijan,2015,Female,1728.0
+Azerbaijan,2015,Male,2416.0
+Azerbaijan,2015,Both sexes,4144.0
+Azerbaijan,2016,Female,1602.0
+Azerbaijan,2016,Both sexes,3830.0
+Azerbaijan,2016,Male,2228.0
+Azerbaijan,2014,Male,2589.0
+Bahamas,2018,Both sexes,45.0
+Bahamas,2017,Female,21.0
+Bahamas,2017,Male,25.0
+Bahamas,2017,Both sexes,46.0
+Bahamas,2018,Female,20.0
+Bahamas,2018,Male,25.0
+Bahamas,2013,Female,23.0
+Bahamas,2013,Both sexes,51.0
+Bahamas,2014,Female,22.0
+Bahamas,2014,Male,27.0
+Bahamas,2014,Both sexes,49.0
+Bahamas,2015,Female,22.0
+Bahamas,2015,Male,26.0
+Bahamas,2015,Both sexes,48.0
+Bahamas,2016,Female,21.0
+Bahamas,2016,Male,26.0
+Bahamas,2013,Male,28.0
+Bahamas,2016,Both sexes,47.0
+Bahrain,2018,Both sexes,132.0
+Bahrain,2018,Male,69.0
+Bahrain,2018,Female,63.0
+Bahrain,2017,Both sexes,135.0
+Bahrain,2017,Male,71.0
+Bahrain,2017,Female,64.0
+Bahrain,2014,Female,66.0
+Bahrain,2013,Both sexes,139.0
+Bahrain,2013,Male,73.0
+Bahrain,2014,Male,73.0
+Bahrain,2014,Both sexes,139.0
+Bahrain,2015,Female,66.0
+Bahrain,2013,Female,66.0
+Bahrain,2015,Both sexes,138.0
+Bahrain,2016,Female,65.0
+Bahrain,2016,Male,72.0
+Bahrain,2016,Both sexes,137.0
+Bahrain,2015,Male,72.0
+Bangladesh,2018,Both sexes,73697.0
+Bangladesh,2018,Male,40370.0
+Bangladesh,2018,Female,33327.0
+Bangladesh,2017,Both sexes,78154.0
+Bangladesh,2017,Male,42759.0
+Bangladesh,2017,Female,35395.0
+Bangladesh,2015,Both sexes,88460.0
+Bangladesh,2015,Male,48240.0
+Bangladesh,2016,Both sexes,83163.0
+Bangladesh,2016,Female,37755.0
+Bangladesh,2015,Female,40220.0
+Bangladesh,2014,Both sexes,94107.0
+Bangladesh,2014,Male,51302.0
+Bangladesh,2014,Female,42805.0
+Bangladesh,2013,Both sexes,100148.0
+Bangladesh,2013,Male,54565.0
+Bangladesh,2013,Female,45583.0
+Bangladesh,2016,Male,45408.0
+Barbados,2013,Male,23.0
+Barbados,2016,Both sexes,37.0
+Barbados,2016,Male,21.0
+Barbados,2016,Female,16.0
+Barbados,2013,Female,18.0
+Barbados,2015,Male,21.0
+Barbados,2015,Female,17.0
+Barbados,2014,Both sexes,39.0
+Barbados,2014,Male,22.0
+Barbados,2014,Female,17.0
+Barbados,2018,Both sexes,34.0
+Barbados,2018,Male,19.0
+Barbados,2018,Female,15.0
+Barbados,2017,Both sexes,36.0
+Barbados,2013,Both sexes,41.0
+Barbados,2017,Female,16.0
+Barbados,2015,Both sexes,38.0
+Barbados,2017,Male,20.0
+Belarus,2016,Both sexes,330.0
+Belarus,2018,Male,165.0
+Belarus,2016,Male,189.0
+Belarus,2016,Female,141.0
+Belarus,2015,Both sexes,349.0
+Belarus,2015,Male,200.0
+Belarus,2015,Female,149.0
+Belarus,2014,Both sexes,368.0
+Belarus,2014,Male,211.0
+Belarus,2014,Female,157.0
+Belarus,2013,Male,223.0
+Belarus,2013,Female,164.0
+Belarus,2018,Both sexes,288.0
+Belarus,2013,Both sexes,387.0
+Belarus,2018,Female,123.0
+Belarus,2017,Both sexes,309.0
+Belarus,2017,Male,177.0
+Belarus,2017,Female,132.0
+Belgium,2015,Both sexes,404.0
+Belgium,2013,Female,185.0
+Belgium,2013,Male,244.0
+Belgium,2013,Both sexes,429.0
+Belgium,2014,Female,180.0
+Belgium,2014,Male,237.0
+Belgium,2014,Both sexes,417.0
+Belgium,2015,Female,174.0
+Belgium,2015,Male,230.0
+Belgium,2016,Male,222.0
+Belgium,2016,Both sexes,391.0
+Belgium,2017,Female,163.0
+Belgium,2017,Male,215.0
+Belgium,2017,Both sexes,378.0
+Belgium,2018,Female,158.0
+Belgium,2018,Male,207.0
+Belgium,2018,Both sexes,365.0
+Belgium,2016,Female,169.0
+Belize,2015,Male,57.0
+Belize,2015,Both sexes,103.0
+Belize,2016,Female,44.0
+Belize,2018,Female,39.0
+Belize,2016,Both sexes,98.0
+Belize,2015,Female,46.0
+Belize,2016,Male,54.0
+Belize,2014,Both sexes,107.0
+Belize,2014,Male,59.0
+Belize,2014,Female,48.0
+Belize,2013,Both sexes,112.0
+Belize,2013,Male,62.0
+Belize,2013,Female,50.0
+Belize,2017,Both sexes,93.0
+Belize,2018,Both sexes,89.0
+Belize,2017,Male,52.0
+Belize,2017,Female,41.0
+Belize,2018,Male,50.0
+Benin,2018,Both sexes,24767.0
+Benin,2018,Male,13787.0
+Benin,2018,Female,10980.0
+Benin,2017,Both sexes,24924.0
+Benin,2017,Male,13867.0
+Benin,2017,Female,11057.0
+Benin,2013,Female,11178.0
+Benin,2013,Both sexes,25141.0
+Benin,2014,Female,11151.0
+Benin,2014,Male,13953.0
+Benin,2014,Both sexes,25104.0
+Benin,2015,Female,11117.0
+Benin,2015,Male,13945.0
+Benin,2015,Both sexes,25062.0
+Benin,2016,Female,11089.0
+Benin,2016,Both sexes,24999.0
+Benin,2013,Male,13963.0
+Benin,2016,Male,13910.0
+Bhutan,2017,Male,185.0
+Bhutan,2017,Female,147.0
+Bhutan,2018,Male,178.0
+Bhutan,2018,Both sexes,321.0
+Bhutan,2015,Male,197.0
+Bhutan,2018,Female,143.0
+Bhutan,2013,Female,171.0
+Bhutan,2013,Male,214.0
+Bhutan,2013,Both sexes,385.0
+Bhutan,2014,Female,164.0
+Bhutan,2014,Both sexes,369.0
+Bhutan,2015,Female,158.0
+Bhutan,2017,Both sexes,332.0
+Bhutan,2015,Both sexes,355.0
+Bhutan,2014,Male,205.0
+Bhutan,2016,Male,190.0
+Bhutan,2016,Both sexes,342.0
+Bhutan,2016,Female,152.0
+Bolivia (Plurinational State of),2017,Female,2440.0
+Bolivia (Plurinational State of),2013,Both sexes,6877.0
+Bolivia (Plurinational State of),2014,Female,2831.0
+Bolivia (Plurinational State of),2014,Male,3663.0
+Bolivia (Plurinational State of),2014,Both sexes,6494.0
+Bolivia (Plurinational State of),2015,Female,2686.0
+Bolivia (Plurinational State of),2015,Both sexes,6163.0
+Bolivia (Plurinational State of),2016,Female,2556.0
+Bolivia (Plurinational State of),2016,Both sexes,5866.0
+Bolivia (Plurinational State of),2018,Both sexes,5376.0
+Bolivia (Plurinational State of),2018,Male,3037.0
+Bolivia (Plurinational State of),2013,Male,3871.0
+Bolivia (Plurinational State of),2018,Female,2339.0
+Bolivia (Plurinational State of),2017,Both sexes,5605.0
+Bolivia (Plurinational State of),2017,Male,3165.0
+Bolivia (Plurinational State of),2016,Male,3310.0
+Bolivia (Plurinational State of),2013,Female,3006.0
+Bolivia (Plurinational State of),2015,Male,3477.0
+Bosnia and Herzegovina,2015,Both sexes,161.0
+Bosnia and Herzegovina,2018,Female,60.0
+Bosnia and Herzegovina,2017,Both sexes,146.0
+Bosnia and Herzegovina,2017,Male,82.0
+Bosnia and Herzegovina,2017,Female,64.0
+Bosnia and Herzegovina,2015,Male,90.0
+Bosnia and Herzegovina,2018,Male,78.0
+Bosnia and Herzegovina,2013,Female,78.0
+Bosnia and Herzegovina,2013,Male,101.0
+Bosnia and Herzegovina,2018,Both sexes,138.0
+Bosnia and Herzegovina,2014,Female,75.0
+Bosnia and Herzegovina,2016,Female,67.0
+Bosnia and Herzegovina,2016,Male,86.0
+Bosnia and Herzegovina,2016,Both sexes,153.0
+Bosnia and Herzegovina,2015,Female,71.0
+Bosnia and Herzegovina,2013,Both sexes,179.0
+Bosnia and Herzegovina,2014,Male,95.0
+Bosnia and Herzegovina,2014,Both sexes,170.0
+Botswana,2014,Both sexes,1935.0
+Botswana,2016,Both sexes,1818.0
+Botswana,2016,Male,1012.0
+Botswana,2016,Female,806.0
+Botswana,2018,Both sexes,1676.0
+Botswana,2018,Male,935.0
+Botswana,2018,Female,741.0
+Botswana,2017,Both sexes,1725.0
+Botswana,2017,Male,961.0
+Botswana,2017,Female,764.0
+Botswana,2015,Female,829.0
+Botswana,2013,Both sexes,1948.0
+Botswana,2015,Both sexes,1867.0
+Botswana,2013,Female,866.0
+Botswana,2013,Male,1082.0
+Botswana,2015,Male,1038.0
+Botswana,2014,Female,859.0
+Botswana,2014,Male,1076.0
+Brazil,2015,Female,17736.0
+Brazil,2016,Female,18582.0
+Brazil,2014,Both sexes,42845.0
+Brazil,2014,Male,24540.0
+Brazil,2014,Female,18305.0
+Brazil,2013,Both sexes,44283.0
+Brazil,2015,Male,23773.0
+Brazil,2015,Both sexes,41509.0
+Brazil,2017,Female,16585.0
+Brazil,2018,Male,21405.0
+Brazil,2018,Female,16016.0
+Brazil,2017,Both sexes,38792.0
+Brazil,2017,Male,22207.0
+Brazil,2016,Male,24481.0
+Brazil,2016,Both sexes,43063.0
+Brazil,2013,Female,18908.0
+Brazil,2018,Both sexes,37421.0
+Brazil,2013,Male,25375.0
+Brunei Darussalam,2013,Both sexes,59.0
+Brunei Darussalam,2018,Male,35.0
+Brunei Darussalam,2016,Female,28.0
+Brunei Darussalam,2015,Both sexes,62.0
+Brunei Darussalam,2015,Male,34.0
+Brunei Darussalam,2015,Female,28.0
+Brunei Darussalam,2014,Both sexes,61.0
+Brunei Darussalam,2014,Male,34.0
+Brunei Darussalam,2014,Female,27.0
+Brunei Darussalam,2013,Male,33.0
+Brunei Darussalam,2013,Female,26.0
+Brunei Darussalam,2016,Male,35.0
+Brunei Darussalam,2016,Both sexes,63.0
+Brunei Darussalam,2018,Both sexes,63.0
+Brunei Darussalam,2017,Female,28.0
+Brunei Darussalam,2017,Male,35.0
+Brunei Darussalam,2017,Both sexes,63.0
+Brunei Darussalam,2018,Female,28.0
+Bulgaria,2015,Female,197.0
+Bulgaria,2014,Male,282.0
+Bulgaria,2016,Female,184.0
+Bulgaria,2016,Male,241.0
+Bulgaria,2016,Both sexes,425.0
+Bulgaria,2014,Female,213.0
+Bulgaria,2013,Both sexes,539.0
+Bulgaria,2013,Male,308.0
+Bulgaria,2013,Female,231.0
+Bulgaria,2014,Both sexes,495.0
+Bulgaria,2015,Both sexes,457.0
+Bulgaria,2015,Male,260.0
+Bulgaria,2017,Female,172.0
+Bulgaria,2017,Male,225.0
+Bulgaria,2017,Both sexes,397.0
+Bulgaria,2018,Female,162.0
+Bulgaria,2018,Male,212.0
+Bulgaria,2018,Both sexes,374.0
+Burkina Faso,2014,Both sexes,38372.0
+Burkina Faso,2016,Both sexes,37142.0
+Burkina Faso,2016,Male,20571.0
+Burkina Faso,2015,Both sexes,37717.0
+Burkina Faso,2015,Male,20861.0
+Burkina Faso,2015,Female,16856.0
+Burkina Faso,2013,Female,17543.0
+Burkina Faso,2014,Male,21216.0
+Burkina Faso,2014,Female,17156.0
+Burkina Faso,2016,Female,16571.0
+Burkina Faso,2018,Both sexes,36195.0
+Burkina Faso,2018,Male,20077.0
+Burkina Faso,2018,Female,16118.0
+Burkina Faso,2017,Both sexes,36653.0
+Burkina Faso,2017,Male,20319.0
+Burkina Faso,2017,Female,16334.0
+Burkina Faso,2013,Both sexes,39171.0
+Burkina Faso,2013,Male,21628.0
+Burundi,2016,Both sexes,18358.0
+Burundi,2016,Male,10288.0
+Burundi,2013,Female,8744.0
+Burundi,2013,Male,11093.0
+Burundi,2013,Both sexes,19837.0
+Burundi,2014,Female,8485.0
+Burundi,2014,Male,10778.0
+Burundi,2014,Both sexes,19263.0
+Burundi,2015,Female,8260.0
+Burundi,2015,Male,10512.0
+Burundi,2016,Female,8070.0
+Burundi,2015,Both sexes,18772.0
+Burundi,2018,Both sexes,17644.0
+Burundi,2018,Male,9892.0
+Burundi,2017,Female,7895.0
+Burundi,2017,Male,10085.0
+Burundi,2017,Both sexes,17980.0
+Burundi,2018,Female,7752.0
+Cabo Verde,2017,Both sexes,184.0
+Cabo Verde,2018,Female,78.0
+Cabo Verde,2018,Male,99.0
+Cabo Verde,2018,Both sexes,177.0
+Cabo Verde,2016,Both sexes,192.0
+Cabo Verde,2016,Male,107.0
+Cabo Verde,2016,Female,85.0
+Cabo Verde,2015,Both sexes,199.0
+Cabo Verde,2015,Male,111.0
+Cabo Verde,2015,Female,88.0
+Cabo Verde,2014,Both sexes,207.0
+Cabo Verde,2014,Male,115.0
+Cabo Verde,2014,Female,92.0
+Cabo Verde,2013,Both sexes,214.0
+Cabo Verde,2013,Male,119.0
+Cabo Verde,2013,Female,95.0
+Cabo Verde,2017,Female,82.0
+Cabo Verde,2017,Male,102.0
+Cambodia,2016,Female,4100.0
+Cambodia,2016,Male,5479.0
+Cambodia,2016,Both sexes,9579.0
+Cambodia,2017,Female,3913.0
+Cambodia,2017,Male,5234.0
+Cambodia,2017,Both sexes,9147.0
+Cambodia,2018,Female,3742.0
+Cambodia,2018,Both sexes,8754.0
+Cambodia,2013,Female,4781.0
+Cambodia,2018,Male,5012.0
+Cambodia,2013,Both sexes,11153.0
+Cambodia,2014,Female,4538.0
+Cambodia,2014,Male,6043.0
+Cambodia,2014,Both sexes,10581.0
+Cambodia,2015,Female,4321.0
+Cambodia,2015,Male,5745.0
+Cambodia,2015,Both sexes,10066.0
+Cambodia,2013,Male,6372.0
+Cameroon,2017,Male,25161.0
+Cameroon,2018,Both sexes,44517.0
+Cameroon,2018,Male,24688.0
+Cameroon,2018,Female,19829.0
+Cameroon,2017,Both sexes,45386.0
+Cameroon,2017,Female,20225.0
+Cameroon,2013,Both sexes,49538.0
+Cameroon,2013,Female,22123.0
+Cameroon,2013,Male,27415.0
+Cameroon,2014,Female,21657.0
+Cameroon,2014,Male,26893.0
+Cameroon,2014,Both sexes,48550.0
+Cameroon,2015,Female,21066.0
+Cameroon,2015,Male,26188.0
+Cameroon,2015,Both sexes,47254.0
+Cameroon,2016,Female,20693.0
+Cameroon,2016,Male,25715.0
+Cameroon,2016,Both sexes,46408.0
+Canada,2018,Male,918.0
+Canada,2017,Male,936.0
+Canada,2018,Both sexes,1678.0
+Canada,2017,Female,776.0
+Canada,2017,Both sexes,1712.0
+Canada,2013,Both sexes,1819.0
+Canada,2016,Both sexes,1744.0
+Canada,2016,Male,953.0
+Canada,2016,Female,791.0
+Canada,2015,Both sexes,1774.0
+Canada,2015,Male,972.0
+Canada,2015,Female,802.0
+Canada,2014,Both sexes,1800.0
+Canada,2014,Male,988.0
+Canada,2014,Female,812.0
+Canada,2013,Male,998.0
+Canada,2013,Female,821.0
+Canada,2018,Female,760.0
+Central African Republic,2013,Female,7149.0
+Central African Republic,2018,Female,6247.0
+Central African Republic,2017,Both sexes,14087.0
+Central African Republic,2017,Male,7704.0
+Central African Republic,2018,Both sexes,13800.0
+Central African Republic,2017,Female,6383.0
+Central African Republic,2013,Male,8583.0
+Central African Republic,2018,Male,7553.0
+Central African Republic,2013,Both sexes,15732.0
+Central African Republic,2015,Female,6714.0
+Central African Republic,2014,Male,8322.0
+Central African Republic,2014,Both sexes,15235.0
+Central African Republic,2015,Male,8087.0
+Central African Republic,2015,Both sexes,14801.0
+Central African Republic,2016,Female,6511.0
+Central African Republic,2016,Male,7867.0
+Central African Republic,2016,Both sexes,14378.0
+Central African Republic,2014,Female,6913.0
+Chad,2017,Male,25352.0
+Chad,2018,Both sexes,45723.0
+Chad,2018,Male,25259.0
+Chad,2018,Female,20464.0
+Chad,2017,Both sexes,45903.0
+Chad,2017,Female,20551.0
+Chad,2014,Female,20746.0
+Chad,2013,Female,20769.0
+Chad,2013,Male,25532.0
+Chad,2013,Both sexes,46301.0
+Chad,2014,Male,25514.0
+Chad,2014,Both sexes,46260.0
+Chad,2015,Female,20716.0
+Chad,2015,Male,25506.0
+Chad,2015,Both sexes,46222.0
+Chad,2016,Female,20647.0
+Chad,2016,Both sexes,46075.0
+Chad,2016,Male,25428.0
+Chile,2018,Female,642.0
+Chile,2018,Male,789.0
+Chile,2018,Both sexes,1431.0
+Chile,2017,Male,826.0
+Chile,2017,Both sexes,1497.0
+Chile,2014,Male,938.0
+Chile,2013,Male,965.0
+Chile,2013,Both sexes,1746.0
+Chile,2014,Female,759.0
+Chile,2014,Both sexes,1697.0
+Chile,2015,Female,730.0
+Chile,2015,Male,905.0
+Chile,2015,Both sexes,1635.0
+Chile,2016,Female,703.0
+Chile,2016,Male,863.0
+Chile,2016,Both sexes,1566.0
+Chile,2017,Female,671.0
+Chile,2013,Female,781.0
+China,2018,Both sexes,124632.0
+China,2017,Female,59260.0
+China,2018,Female,54749.0
+China,2016,Both sexes,147911.0
+China,2016,Male,83441.0
+China,2016,Female,64470.0
+China,2015,Both sexes,160973.0
+China,2015,Male,91142.0
+China,2015,Female,69831.0
+China,2014,Both sexes,174712.0
+China,2014,Male,99233.0
+China,2018,Male,69883.0
+China,2014,Female,75479.0
+China,2013,Male,107630.0
+China,2013,Female,81449.0
+China,2017,Male,76413.0
+China,2017,Both sexes,135673.0
+China,2013,Both sexes,189079.0
+Colombia,2018,Male,5126.0
+Colombia,2018,Female,3876.0
+Colombia,2017,Both sexes,9325.0
+Colombia,2017,Male,5311.0
+Colombia,2018,Both sexes,9002.0
+Colombia,2017,Female,4014.0
+Colombia,2014,Male,5902.0
+Colombia,2013,Male,6116.0
+Colombia,2014,Both sexes,10355.0
+Colombia,2015,Female,4306.0
+Colombia,2013,Female,4610.0
+Colombia,2014,Female,4453.0
+Colombia,2013,Both sexes,10726.0
+Colombia,2015,Male,5705.0
+Colombia,2015,Both sexes,10011.0
+Colombia,2016,Female,4160.0
+Colombia,2016,Male,5504.0
+Colombia,2016,Both sexes,9664.0
+Comoros,2013,Male,818.0
+Comoros,2013,Both sexes,1471.0
+Comoros,2014,Female,641.0
+Comoros,2014,Male,810.0
+Comoros,2015,Male,798.0
+Comoros,2015,Both sexes,1431.0
+Comoros,2016,Female,619.0
+Comoros,2016,Male,783.0
+Comoros,2016,Both sexes,1402.0
+Comoros,2013,Female,653.0
+Comoros,2015,Female,633.0
+Comoros,2014,Both sexes,1451.0
+Comoros,2017,Male,766.0
+Comoros,2018,Both sexes,1344.0
+Comoros,2018,Male,750.0
+Comoros,2018,Female,594.0
+Comoros,2017,Female,608.0
+Comoros,2017,Both sexes,1374.0
+Congo,2016,Male,3554.0
+Congo,2016,Both sexes,6373.0
+Congo,2017,Female,2774.0
+Congo,2015,Female,2866.0
+Congo,2018,Both sexes,6180.0
+Congo,2018,Male,3450.0
+Congo,2018,Female,2730.0
+Congo,2017,Both sexes,6270.0
+Congo,2017,Male,3496.0
+Congo,2016,Female,2819.0
+Congo,2015,Both sexes,6469.0
+Congo,2014,Both sexes,6556.0
+Congo,2014,Male,3648.0
+Congo,2014,Female,2908.0
+Congo,2013,Both sexes,6623.0
+Congo,2013,Male,3683.0
+Congo,2013,Female,2940.0
+Congo,2015,Male,3603.0
+Cook Islands,2016,Female,1.0
+Cook Islands,2016,Both sexes,2.0
+Cook Islands,2016,Male,1.0
+Cook Islands,2015,Both sexes,2.0
+Cook Islands,2015,Male,1.0
+Cook Islands,2015,Female,1.0
+Cook Islands,2013,Both sexes,2.0
+Cook Islands,2014,Male,1.0
+Cook Islands,2014,Female,1.0
+Cook Islands,2017,Female,1.0
+Cook Islands,2013,Male,1.0
+Cook Islands,2013,Female,1.0
+Cook Islands,2014,Both sexes,2.0
+Cook Islands,2017,Both sexes,2.0
+Cook Islands,2017,Male,1.0
+Cook Islands,2018,Male,1.0
+Cook Islands,2018,Both sexes,2.0
+Cook Islands,2018,Female,1.0
+Costa Rica,2017,Female,241.0
+Costa Rica,2017,Male,300.0
+Costa Rica,2017,Both sexes,541.0
+Costa Rica,2018,Female,237.0
+Costa Rica,2018,Male,295.0
+Costa Rica,2018,Both sexes,532.0
+Costa Rica,2016,Both sexes,549.0
+Costa Rica,2016,Male,304.0
+Costa Rica,2016,Female,245.0
+Costa Rica,2015,Both sexes,560.0
+Costa Rica,2015,Female,250.0
+Costa Rica,2014,Both sexes,573.0
+Costa Rica,2014,Male,318.0
+Costa Rica,2014,Female,255.0
+Costa Rica,2013,Both sexes,588.0
+Costa Rica,2013,Male,326.0
+Costa Rica,2013,Female,262.0
+Costa Rica,2015,Male,310.0
+Croatia,2018,Male,82.0
+Croatia,2015,Female,73.0
+Croatia,2018,Both sexes,147.0
+Croatia,2015,Male,91.0
+Croatia,2017,Male,85.0
+Croatia,2016,Female,70.0
+Croatia,2016,Male,89.0
+Croatia,2016,Both sexes,159.0
+Croatia,2018,Female,65.0
+Croatia,2015,Both sexes,164.0
+Croatia,2017,Both sexes,153.0
+Croatia,2013,Male,98.0
+Croatia,2017,Female,68.0
+Croatia,2014,Male,94.0
+Croatia,2014,Both sexes,170.0
+Croatia,2013,Female,79.0
+Croatia,2014,Female,76.0
+Croatia,2013,Both sexes,177.0
+Cuba,2015,Female,216.0
+Cuba,2015,Male,283.0
+Cuba,2014,Male,295.0
+Cuba,2016,Female,206.0
+Cuba,2016,Male,271.0
+Cuba,2016,Both sexes,477.0
+Cuba,2013,Female,233.0
+Cuba,2013,Both sexes,540.0
+Cuba,2013,Male,307.0
+Cuba,2014,Both sexes,520.0
+Cuba,2015,Both sexes,499.0
+Cuba,2014,Female,225.0
+Cuba,2018,Female,187.0
+Cuba,2018,Male,244.0
+Cuba,2017,Both sexes,454.0
+Cuba,2017,Male,258.0
+Cuba,2017,Female,196.0
+Cuba,2018,Both sexes,431.0
+Cyprus,2015,Both sexes,28.0
+Cyprus,2016,Female,12.0
+Cyprus,2013,Female,14.0
+Cyprus,2016,Male,14.0
+Cyprus,2015,Female,12.0
+Cyprus,2014,Both sexes,30.0
+Cyprus,2014,Male,17.0
+Cyprus,2014,Female,13.0
+Cyprus,2013,Both sexes,31.0
+Cyprus,2013,Male,17.0
+Cyprus,2015,Male,16.0
+Cyprus,2017,Male,14.0
+Cyprus,2016,Both sexes,26.0
+Cyprus,2018,Both sexes,23.0
+Cyprus,2018,Male,13.0
+Cyprus,2018,Female,10.0
+Cyprus,2017,Both sexes,25.0
+Cyprus,2017,Female,11.0
+Czechia,2016,Female,121.0
+Czechia,2016,Male,163.0
+Czechia,2016,Both sexes,284.0
+Czechia,2015,Female,118.0
+Czechia,2014,Both sexes,276.0
+Czechia,2014,Male,159.0
+Czechia,2014,Female,117.0
+Czechia,2013,Both sexes,277.0
+Czechia,2013,Male,160.0
+Czechia,2013,Female,117.0
+Czechia,2015,Male,160.0
+Czechia,2015,Both sexes,278.0
+Czechia,2018,Female,125.0
+Czechia,2017,Female,123.0
+Czechia,2018,Both sexes,295.0
+Czechia,2018,Male,170.0
+Czechia,2017,Male,167.0
+Czechia,2017,Both sexes,290.0
+Côte d'Ivoire,2013,Both sexes,54998.0
+Côte d'Ivoire,2014,Female,23717.0
+Côte d'Ivoire,2014,Male,30744.0
+Côte d'Ivoire,2014,Both sexes,54461.0
+Côte d'Ivoire,2018,Both sexes,52312.0
+Côte d'Ivoire,2015,Female,23455.0
+Côte d'Ivoire,2015,Male,30431.0
+Côte d'Ivoire,2016,Female,23182.0
+Côte d'Ivoire,2016,Male,30098.0
+Côte d'Ivoire,2016,Both sexes,53280.0
+Côte d'Ivoire,2013,Male,31032.0
+Côte d'Ivoire,2013,Female,23966.0
+Côte d'Ivoire,2015,Both sexes,53886.0
+Côte d'Ivoire,2018,Male,29544.0
+Côte d'Ivoire,2018,Female,22768.0
+Côte d'Ivoire,2017,Both sexes,52719.0
+Côte d'Ivoire,2017,Male,29786.0
+Côte d'Ivoire,2017,Female,22933.0
+Democratic People's Republic of Korea,2018,Female,2095.0
+Democratic People's Republic of Korea,2013,Both sexes,6306.0
+Democratic People's Republic of Korea,2014,Female,2546.0
+Democratic People's Republic of Korea,2017,Female,2194.0
+Democratic People's Republic of Korea,2014,Male,3342.0
+Democratic People's Republic of Korea,2014,Both sexes,5888.0
+Democratic People's Republic of Korea,2015,Female,2409.0
+Democratic People's Republic of Korea,2015,Male,3165.0
+Democratic People's Republic of Korea,2015,Both sexes,5574.0
+Democratic People's Republic of Korea,2016,Female,2288.0
+Democratic People's Republic of Korea,2013,Female,2728.0
+Democratic People's Republic of Korea,2016,Both sexes,5290.0
+Democratic People's Republic of Korea,2013,Male,3578.0
+Democratic People's Republic of Korea,2018,Male,2747.0
+Democratic People's Republic of Korea,2018,Both sexes,4842.0
+Democratic People's Republic of Korea,2017,Both sexes,5070.0
+Democratic People's Republic of Korea,2017,Male,2876.0
+Democratic People's Republic of Korea,2016,Male,3002.0
+Democratic Republic of the Congo,2017,Male,128610.0
+Democratic Republic of the Congo,2017,Female,104679.0
+Democratic Republic of the Congo,2018,Male,127729.0
+Democratic Republic of the Congo,2015,Both sexes,236287.0
+Democratic Republic of the Congo,2016,Male,129155.0
+Democratic Republic of the Congo,2016,Female,105427.0
+Democratic Republic of the Congo,2015,Male,130060.0
+Democratic Republic of the Congo,2015,Female,106227.0
+Democratic Republic of the Congo,2014,Both sexes,237211.0
+Democratic Republic of the Congo,2014,Male,130486.0
+Democratic Republic of the Congo,2014,Female,106725.0
+Democratic Republic of the Congo,2013,Both sexes,238099.0
+Democratic Republic of the Congo,2013,Male,130967.0
+Democratic Republic of the Congo,2013,Female,107132.0
+Democratic Republic of the Congo,2018,Both sexes,231546.0
+Democratic Republic of the Congo,2017,Both sexes,233289.0
+Democratic Republic of the Congo,2018,Female,103817.0
+Democratic Republic of the Congo,2016,Both sexes,234582.0
+Denmark,2013,Male,115.0
+Denmark,2017,Female,97.0
+Denmark,2013,Female,91.0
+Denmark,2017,Both sexes,218.0
+Denmark,2017,Male,121.0
+Denmark,2013,Both sexes,206.0
+Denmark,2014,Female,92.0
+Denmark,2014,Male,116.0
+Denmark,2014,Both sexes,208.0
+Denmark,2015,Female,94.0
+Denmark,2015,Male,117.0
+Denmark,2016,Female,95.0
+Denmark,2016,Male,120.0
+Denmark,2016,Both sexes,215.0
+Denmark,2018,Both sexes,220.0
+Denmark,2018,Male,123.0
+Denmark,2018,Female,97.0
+Denmark,2015,Both sexes,211.0
+Djibouti,2016,Both sexes,1090.0
+Djibouti,2017,Female,470.0
+Djibouti,2017,Male,583.0
+Djibouti,2017,Both sexes,1053.0
+Djibouti,2018,Female,454.0
+Djibouti,2016,Male,603.0
+Djibouti,2015,Both sexes,1128.0
+Djibouti,2018,Male,565.0
+Djibouti,2015,Male,623.0
+Djibouti,2016,Female,487.0
+Djibouti,2014,Both sexes,1165.0
+Djibouti,2014,Male,643.0
+Djibouti,2014,Female,522.0
+Djibouti,2013,Both sexes,1203.0
+Djibouti,2013,Male,664.0
+Djibouti,2013,Female,539.0
+Djibouti,2018,Both sexes,1019.0
+Djibouti,2015,Female,505.0
+Dominica,2017,Female,14.0
+Dominica,2016,Male,16.0
+Dominica,2018,Both sexes,31.0
+Dominica,2018,Male,17.0
+Dominica,2018,Female,14.0
+Dominica,2017,Both sexes,30.0
+Dominica,2017,Male,16.0
+Dominica,2016,Both sexes,29.0
+Dominica,2016,Female,13.0
+Dominica,2014,Male,14.0
+Dominica,2013,Both sexes,22.0
+Dominica,2014,Female,11.0
+Dominica,2014,Both sexes,25.0
+Dominica,2015,Female,12.0
+Dominica,2015,Male,15.0
+Dominica,2013,Female,10.0
+Dominica,2013,Male,12.0
+Dominica,2015,Both sexes,27.0
+Dominican Republic,2015,Female,2385.0
+Dominican Republic,2014,Male,3092.0
+Dominican Republic,2015,Both sexes,5414.0
+Dominican Republic,2016,Female,2331.0
+Dominican Republic,2016,Male,2961.0
+Dominican Republic,2014,Female,2440.0
+Dominican Republic,2013,Both sexes,5624.0
+Dominican Republic,2013,Male,3143.0
+Dominican Republic,2013,Female,2481.0
+Dominican Republic,2014,Both sexes,5532.0
+Dominican Republic,2015,Male,3029.0
+Dominican Republic,2016,Both sexes,5292.0
+Dominican Republic,2018,Male,2795.0
+Dominican Republic,2018,Female,2194.0
+Dominican Republic,2017,Both sexes,5146.0
+Dominican Republic,2017,Male,2881.0
+Dominican Republic,2017,Female,2265.0
+Dominican Republic,2018,Both sexes,4989.0
+Ecuador,2015,Male,2464.0
+Ecuador,2015,Both sexes,4300.0
+Ecuador,2016,Female,1805.0
+Ecuador,2016,Male,2419.0
+Ecuador,2016,Both sexes,4224.0
+Ecuador,2013,Female,1928.0
+Ecuador,2017,Female,1782.0
+Ecuador,2017,Male,2383.0
+Ecuador,2017,Both sexes,4165.0
+Ecuador,2018,Female,1757.0
+Ecuador,2018,Male,2349.0
+Ecuador,2018,Both sexes,4106.0
+Ecuador,2013,Both sexes,4524.0
+Ecuador,2014,Female,1878.0
+Ecuador,2014,Male,2523.0
+Ecuador,2015,Female,1836.0
+Ecuador,2013,Male,2596.0
+Ecuador,2014,Both sexes,4401.0
+Egypt,2015,Female,23352.0
+Egypt,2013,Both sexes,53490.0
+Egypt,2014,Both sexes,52797.0
+Egypt,2014,Male,28936.0
+Egypt,2015,Male,28323.0
+Egypt,2013,Female,24193.0
+Egypt,2013,Male,29297.0
+Egypt,2014,Female,23861.0
+Egypt,2015,Both sexes,51675.0
+Egypt,2017,Female,21937.0
+Egypt,2016,Male,27530.0
+Egypt,2016,Both sexes,50233.0
+Egypt,2017,Male,26595.0
+Egypt,2017,Both sexes,48532.0
+Egypt,2018,Female,21161.0
+Egypt,2018,Male,25688.0
+Egypt,2018,Both sexes,46849.0
+Egypt,2016,Female,22703.0
+El Salvador,2016,Female,651.0
+El Salvador,2016,Both sexes,1496.0
+El Salvador,2016,Male,845.0
+El Salvador,2015,Both sexes,1561.0
+El Salvador,2017,Male,809.0
+El Salvador,2015,Female,680.0
+El Salvador,2018,Female,601.0
+El Salvador,2017,Both sexes,1434.0
+El Salvador,2017,Female,625.0
+El Salvador,2015,Male,881.0
+El Salvador,2018,Male,777.0
+El Salvador,2018,Both sexes,1378.0
+El Salvador,2013,Male,967.0
+El Salvador,2013,Both sexes,1710.0
+El Salvador,2014,Female,710.0
+El Salvador,2014,Male,922.0
+El Salvador,2014,Both sexes,1632.0
+El Salvador,2013,Female,743.0
+Equatorial Guinea,2017,Female,1200.0
+Equatorial Guinea,2017,Male,1485.0
+Equatorial Guinea,2018,Female,1191.0
+Equatorial Guinea,2018,Male,1477.0
+Equatorial Guinea,2018,Both sexes,2668.0
+Equatorial Guinea,2017,Both sexes,2685.0
+Equatorial Guinea,2013,Male,1507.0
+Equatorial Guinea,2013,Both sexes,2731.0
+Equatorial Guinea,2014,Female,1222.0
+Equatorial Guinea,2014,Male,1504.0
+Equatorial Guinea,2014,Both sexes,2726.0
+Equatorial Guinea,2015,Female,1216.0
+Equatorial Guinea,2015,Male,1496.0
+Equatorial Guinea,2015,Both sexes,2712.0
+Equatorial Guinea,2016,Female,1205.0
+Equatorial Guinea,2016,Male,1489.0
+Equatorial Guinea,2016,Both sexes,2694.0
+Equatorial Guinea,2013,Female,1224.0
+Eritrea,2018,Female,1366.0
+Eritrea,2018,Both sexes,3291.0
+Eritrea,2018,Male,1925.0
+Eritrea,2017,Both sexes,3412.0
+Eritrea,2014,Female,1590.0
+Eritrea,2017,Female,1417.0
+Eritrea,2016,Both sexes,3540.0
+Eritrea,2016,Male,2071.0
+Eritrea,2016,Female,1469.0
+Eritrea,2015,Both sexes,3683.0
+Eritrea,2015,Male,2155.0
+Eritrea,2015,Female,1528.0
+Eritrea,2017,Male,1995.0
+Eritrea,2014,Both sexes,3824.0
+Eritrea,2013,Male,2326.0
+Eritrea,2013,Female,1656.0
+Eritrea,2013,Both sexes,3982.0
+Eritrea,2014,Male,2234.0
+Estonia,2017,Both sexes,30.0
+Estonia,2018,Female,12.0
+Estonia,2018,Male,16.0
+Estonia,2018,Both sexes,28.0
+Estonia,2015,Male,20.0
+Estonia,2017,Male,17.0
+Estonia,2016,Female,14.0
+Estonia,2016,Male,18.0
+Estonia,2016,Both sexes,32.0
+Estonia,2015,Female,15.0
+Estonia,2014,Both sexes,38.0
+Estonia,2014,Male,21.0
+Estonia,2014,Female,17.0
+Estonia,2013,Both sexes,41.0
+Estonia,2013,Male,23.0
+Estonia,2013,Female,18.0
+Estonia,2017,Female,13.0
+Estonia,2015,Both sexes,35.0
+Eswatini,2016,Female,617.0
+Eswatini,2015,Both sexes,1456.0
+Eswatini,2015,Male,814.0
+Eswatini,2015,Female,642.0
+Eswatini,2014,Both sexes,1616.0
+Eswatini,2014,Male,901.0
+Eswatini,2014,Female,715.0
+Eswatini,2013,Both sexes,1671.0
+Eswatini,2013,Male,931.0
+Eswatini,2013,Female,740.0
+Eswatini,2016,Both sexes,1399.0
+Eswatini,2016,Male,782.0
+Eswatini,2018,Female,565.0
+Eswatini,2018,Both sexes,1284.0
+Eswatini,2017,Female,602.0
+Eswatini,2017,Male,763.0
+Eswatini,2017,Both sexes,1365.0
+Eswatini,2018,Male,719.0
+Ethiopia,2013,Male,89548.0
+Ethiopia,2013,Both sexes,155049.0
+Ethiopia,2014,Female,63661.0
+Ethiopia,2014,Male,87022.0
+Ethiopia,2014,Both sexes,150683.0
+Ethiopia,2015,Female,61967.0
+Ethiopia,2015,Male,84754.0
+Ethiopia,2015,Both sexes,146721.0
+Ethiopia,2016,Male,82667.0
+Ethiopia,2016,Both sexes,143044.0
+Ethiopia,2016,Female,60377.0
+Ethiopia,2018,Both sexes,136664.0
+Ethiopia,2018,Male,79022.0
+Ethiopia,2018,Female,57642.0
+Ethiopia,2017,Both sexes,139700.0
+Ethiopia,2017,Male,80722.0
+Ethiopia,2017,Female,58978.0
+Ethiopia,2013,Female,65501.0
+Fiji,2015,Both sexes,398.0
+Fiji,2015,Male,222.0
+Fiji,2015,Female,176.0
+Fiji,2014,Both sexes,394.0
+Fiji,2014,Male,220.0
+Fiji,2014,Female,174.0
+Fiji,2016,Female,178.0
+Fiji,2017,Male,226.0
+Fiji,2016,Both sexes,403.0
+Fiji,2017,Female,180.0
+Fiji,2013,Both sexes,390.0
+Fiji,2018,Both sexes,408.0
+Fiji,2018,Male,228.0
+Fiji,2018,Female,180.0
+Fiji,2017,Both sexes,406.0
+Fiji,2016,Male,225.0
+Fiji,2013,Female,173.0
+Fiji,2013,Male,217.0
+Finland,2018,Male,39.0
+Finland,2018,Female,32.0
+Finland,2013,Female,54.0
+Finland,2013,Male,67.0
+Finland,2013,Both sexes,121.0
+Finland,2014,Female,49.0
+Finland,2014,Male,62.0
+Finland,2015,Female,44.0
+Finland,2015,Male,56.0
+Finland,2015,Both sexes,100.0
+Finland,2016,Female,40.0
+Finland,2016,Male,50.0
+Finland,2014,Both sexes,111.0
+Finland,2018,Both sexes,71.0
+Finland,2017,Both sexes,80.0
+Finland,2017,Female,35.0
+Finland,2017,Male,45.0
+Finland,2016,Both sexes,90.0
+France,2013,Both sexes,2714.0
+France,2014,Female,1168.0
+France,2014,Male,1491.0
+France,2014,Both sexes,2659.0
+France,2015,Female,1145.0
+France,2015,Both sexes,2608.0
+France,2016,Female,1126.0
+France,2016,Both sexes,2566.0
+France,2018,Both sexes,2477.0
+France,2018,Male,1390.0
+France,2018,Female,1087.0
+France,2013,Male,1522.0
+France,2017,Both sexes,2525.0
+France,2017,Male,1417.0
+France,2017,Female,1108.0
+France,2016,Male,1440.0
+France,2013,Female,1192.0
+France,2015,Male,1463.0
+Gabon,2015,Both sexes,2274.0
+Gabon,2018,Male,1222.0
+Gabon,2018,Female,939.0
+Gabon,2017,Both sexes,2200.0
+Gabon,2017,Male,1244.0
+Gabon,2017,Female,956.0
+Gabon,2018,Both sexes,2161.0
+Gabon,2013,Male,1277.0
+Gabon,2013,Female,985.0
+Gabon,2014,Female,993.0
+Gabon,2014,Male,1289.0
+Gabon,2014,Both sexes,2282.0
+Gabon,2015,Female,990.0
+Gabon,2016,Both sexes,2227.0
+Gabon,2016,Male,1260.0
+Gabon,2016,Female,967.0
+Gabon,2013,Both sexes,2262.0
+Gabon,2015,Male,1284.0
+Gambia,2018,Female,1495.0
+Gambia,2017,Both sexes,3398.0
+Gambia,2017,Male,1895.0
+Gambia,2017,Female,1503.0
+Gambia,2013,Both sexes,3419.0
+Gambia,2014,Male,1903.0
+Gambia,2016,Both sexes,3412.0
+Gambia,2016,Male,1902.0
+Gambia,2016,Female,1510.0
+Gambia,2015,Both sexes,3417.0
+Gambia,2015,Male,1901.0
+Gambia,2015,Female,1516.0
+Gambia,2014,Both sexes,3420.0
+Gambia,2013,Female,1516.0
+Gambia,2018,Both sexes,3383.0
+Gambia,2018,Male,1888.0
+Gambia,2013,Male,1903.0
+Gambia,2014,Female,1517.0
+Georgia,2014,Both sexes,556.0
+Georgia,2014,Male,322.0
+Georgia,2014,Female,234.0
+Georgia,2013,Both sexes,584.0
+Georgia,2013,Male,339.0
+Georgia,2013,Female,245.0
+Georgia,2015,Female,226.0
+Georgia,2018,Male,273.0
+Georgia,2016,Both sexes,513.0
+Georgia,2016,Male,296.0
+Georgia,2018,Both sexes,475.0
+Georgia,2015,Both sexes,533.0
+Georgia,2015,Male,307.0
+Georgia,2016,Female,217.0
+Georgia,2017,Female,210.0
+Georgia,2017,Male,284.0
+Georgia,2017,Both sexes,494.0
+Georgia,2018,Female,202.0
+Germany,2018,Male,1323.0
+Germany,2018,Female,1062.0
+Germany,2017,Both sexes,2394.0
+Germany,2015,Male,1307.0
+Germany,2018,Both sexes,2385.0
+Germany,2015,Both sexes,2357.0
+Germany,2013,Female,1024.0
+Germany,2017,Female,1065.0
+Germany,2016,Female,1060.0
+Germany,2016,Male,1322.0
+Germany,2016,Both sexes,2382.0
+Germany,2015,Female,1050.0
+Germany,2014,Both sexes,2330.0
+Germany,2014,Male,1295.0
+Germany,2014,Female,1035.0
+Germany,2013,Both sexes,2311.0
+Germany,2013,Male,1287.0
+Germany,2017,Male,1329.0
+Ghana,2013,Female,15139.0
+Ghana,2017,Female,13492.0
+Ghana,2017,Male,17592.0
+Ghana,2017,Both sexes,31084.0
+Ghana,2018,Female,13146.0
+Ghana,2018,Male,17139.0
+Ghana,2018,Both sexes,30285.0
+Ghana,2016,Male,18084.0
+Ghana,2016,Female,13887.0
+Ghana,2016,Both sexes,31971.0
+Ghana,2015,Male,18578.0
+Ghana,2015,Female,14300.0
+Ghana,2014,Both sexes,33806.0
+Ghana,2014,Male,19095.0
+Ghana,2014,Female,14711.0
+Ghana,2013,Both sexes,34735.0
+Ghana,2013,Male,19596.0
+Ghana,2015,Both sexes,32878.0
+Greece,2017,Both sexes,318.0
+Greece,2018,Both sexes,299.0
+Greece,2018,Male,166.0
+Greece,2018,Female,133.0
+Greece,2017,Male,176.0
+Greece,2015,Female,152.0
+Greece,2013,Both sexes,339.0
+Greece,2014,Female,152.0
+Greece,2014,Male,189.0
+Greece,2014,Both sexes,341.0
+Greece,2016,Both sexes,334.0
+Greece,2015,Male,189.0
+Greece,2015,Both sexes,341.0
+Greece,2016,Female,149.0
+Greece,2016,Male,185.0
+Greece,2013,Female,151.0
+Greece,2017,Female,142.0
+Greece,2013,Male,188.0
+Grenada,2016,Female,11.0
+Grenada,2018,Male,14.0
+Grenada,2016,Both sexes,25.0
+Grenada,2016,Male,14.0
+Grenada,2015,Both sexes,25.0
+Grenada,2015,Male,14.0
+Grenada,2015,Female,11.0
+Grenada,2018,Both sexes,25.0
+Grenada,2014,Male,14.0
+Grenada,2014,Female,11.0
+Grenada,2013,Both sexes,24.0
+Grenada,2013,Male,13.0
+Grenada,2013,Female,11.0
+Grenada,2014,Both sexes,25.0
+Grenada,2018,Female,11.0
+Grenada,2017,Both sexes,25.0
+Grenada,2017,Male,14.0
+Grenada,2017,Female,11.0
+Guatemala,2018,Both sexes,9295.0
+Guatemala,2014,Both sexes,10318.0
+Guatemala,2014,Male,5846.0
+Guatemala,2018,Male,5273.0
+Guatemala,2018,Female,4022.0
+Guatemala,2017,Both sexes,9533.0
+Guatemala,2017,Male,5410.0
+Guatemala,2017,Female,4123.0
+Guatemala,2014,Female,4472.0
+Guatemala,2016,Both sexes,9774.0
+Guatemala,2016,Male,5542.0
+Guatemala,2016,Female,4232.0
+Guatemala,2015,Both sexes,10041.0
+Guatemala,2013,Both sexes,10598.0
+Guatemala,2013,Male,6003.0
+Guatemala,2013,Female,4595.0
+Guatemala,2015,Male,5695.0
+Guatemala,2015,Female,4346.0
+Guinea,2018,Female,13103.0
+Guinea,2015,Male,15854.0
+Guinea,2014,Both sexes,29107.0
+Guinea,2014,Male,15846.0
+Guinea,2014,Female,13261.0
+Guinea,2013,Both sexes,29163.0
+Guinea,2015,Female,13239.0
+Guinea,2015,Both sexes,29093.0
+Guinea,2013,Female,13297.0
+Guinea,2016,Male,15847.0
+Guinea,2016,Both sexes,29066.0
+Guinea,2018,Male,15750.0
+Guinea,2018,Both sexes,28853.0
+Guinea,2017,Female,13177.0
+Guinea,2017,Male,15811.0
+Guinea,2017,Both sexes,28988.0
+Guinea,2016,Female,13219.0
+Guinea,2013,Male,15866.0
+Guinea-Bissau,2013,Male,2180.0
+Guinea-Bissau,2018,Male,1961.0
+Guinea-Bissau,2013,Female,1734.0
+Guinea-Bissau,2013,Both sexes,3914.0
+Guinea-Bissau,2014,Male,2135.0
+Guinea-Bissau,2014,Both sexes,3831.0
+Guinea-Bissau,2015,Female,1658.0
+Guinea-Bissau,2015,Male,2092.0
+Guinea-Bissau,2015,Both sexes,3750.0
+Guinea-Bissau,2014,Female,1696.0
+Guinea-Bissau,2016,Male,2046.0
+Guinea-Bissau,2016,Female,1620.0
+Guinea-Bissau,2018,Female,1549.0
+Guinea-Bissau,2017,Both sexes,3587.0
+Guinea-Bissau,2018,Both sexes,3510.0
+Guinea-Bissau,2017,Male,2003.0
+Guinea-Bissau,2017,Female,1584.0
+Guinea-Bissau,2016,Both sexes,3666.0
+Guyana,2016,Both sexes,418.0
+Guyana,2016,Male,242.0
+Guyana,2015,Male,250.0
+Guyana,2015,Female,182.0
+Guyana,2014,Both sexes,444.0
+Guyana,2014,Male,257.0
+Guyana,2014,Female,187.0
+Guyana,2013,Both sexes,455.0
+Guyana,2013,Male,263.0
+Guyana,2013,Female,192.0
+Guyana,2016,Female,176.0
+Guyana,2015,Both sexes,432.0
+Guyana,2018,Both sexes,390.0
+Guyana,2018,Male,226.0
+Guyana,2018,Female,164.0
+Guyana,2017,Both sexes,405.0
+Guyana,2017,Female,170.0
+Guyana,2017,Male,235.0
+Haiti,2017,Male,7710.0
+Haiti,2014,Both sexes,14824.0
+Haiti,2015,Female,6338.0
+Haiti,2015,Male,8122.0
+Haiti,2015,Both sexes,14460.0
+Haiti,2016,Female,6168.0
+Haiti,2016,Male,7923.0
+Haiti,2016,Both sexes,14091.0
+Haiti,2013,Both sexes,15166.0
+Haiti,2014,Female,6498.0
+Haiti,2013,Female,6653.0
+Haiti,2014,Male,8326.0
+Haiti,2013,Male,8513.0
+Haiti,2018,Both sexes,13316.0
+Haiti,2018,Male,7494.0
+Haiti,2018,Female,5822.0
+Haiti,2017,Both sexes,13705.0
+Haiti,2017,Female,5995.0
+Honduras,2016,Both sexes,3299.0
+Honduras,2016,Male,1879.0
+Honduras,2016,Female,1420.0
+Honduras,2018,Both sexes,3118.0
+Honduras,2018,Male,1776.0
+Honduras,2018,Female,1342.0
+Honduras,2017,Both sexes,3203.0
+Honduras,2017,Male,1825.0
+Honduras,2015,Both sexes,3405.0
+Honduras,2017,Female,1378.0
+Honduras,2015,Female,1466.0
+Honduras,2014,Both sexes,3522.0
+Honduras,2014,Male,2007.0
+Honduras,2014,Female,1515.0
+Honduras,2013,Both sexes,3653.0
+Honduras,2013,Male,2080.0
+Honduras,2013,Female,1573.0
+Honduras,2015,Male,1939.0
+Hungary,2017,Female,155.0
+Hungary,2017,Male,192.0
+Hungary,2013,Female,191.0
+Hungary,2013,Both sexes,426.0
+Hungary,2018,Both sexes,327.0
+Hungary,2018,Female,146.0
+Hungary,2017,Both sexes,347.0
+Hungary,2018,Male,181.0
+Hungary,2014,Male,226.0
+Hungary,2016,Both sexes,368.0
+Hungary,2016,Male,203.0
+Hungary,2014,Female,184.0
+Hungary,2016,Female,165.0
+Hungary,2013,Male,235.0
+Hungary,2015,Male,215.0
+Hungary,2015,Female,175.0
+Hungary,2014,Both sexes,410.0
+Hungary,2015,Both sexes,390.0
+Iceland,2016,Both sexes,7.0
+Iceland,2016,Male,4.0
+Iceland,2016,Female,3.0
+Iceland,2015,Both sexes,7.0
+Iceland,2015,Female,3.0
+Iceland,2014,Both sexes,8.0
+Iceland,2014,Male,5.0
+Iceland,2014,Female,3.0
+Iceland,2013,Both sexes,8.0
+Iceland,2013,Male,4.0
+Iceland,2013,Female,4.0
+Iceland,2015,Male,4.0
+Iceland,2018,Both sexes,6.0
+Iceland,2018,Female,3.0
+Iceland,2018,Male,3.0
+Iceland,2017,Male,4.0
+Iceland,2017,Female,3.0
+Iceland,2017,Both sexes,7.0
+India,2018,Both sexes,720530.0
+India,2018,Female,342800.0
+India,2017,Both sexes,759544.0
+India,2015,Female,408820.0
+India,2017,Female,362607.0
+India,2016,Both sexes,803751.0
+India,2016,Male,419241.0
+India,2016,Female,384510.0
+India,2015,Both sexes,852225.0
+India,2015,Male,443405.0
+India,2018,Male,377730.0
+India,2014,Male,470475.0
+India,2017,Male,396937.0
+India,2014,Both sexes,906429.0
+India,2013,Both sexes,966160.0
+India,2013,Male,500437.0
+India,2013,Female,465723.0
+India,2014,Female,435954.0
+Indonesia,2018,Female,43995.0
+Indonesia,2018,Male,58091.0
+Indonesia,2018,Both sexes,102086.0
+Indonesia,2013,Male,71554.0
+Indonesia,2013,Both sexes,126140.0
+Indonesia,2014,Female,52287.0
+Indonesia,2017,Both sexes,106474.0
+Indonesia,2014,Both sexes,121020.0
+Indonesia,2015,Male,65860.0
+Indonesia,2015,Both sexes,115953.0
+Indonesia,2016,Female,47941.0
+Indonesia,2016,Male,63099.0
+Indonesia,2016,Both sexes,111040.0
+Indonesia,2014,Male,68733.0
+Indonesia,2015,Female,50093.0
+Indonesia,2013,Female,54586.0
+Indonesia,2017,Female,45924.0
+Indonesia,2017,Male,60550.0
+Iran (Islamic Republic of),2013,Both sexes,21076.0
+Iran (Islamic Republic of),2014,Female,9541.0
+Iran (Islamic Republic of),2014,Male,11218.0
+Iran (Islamic Republic of),2014,Both sexes,20759.0
+Iran (Islamic Republic of),2015,Female,9387.0
+Iran (Islamic Republic of),2015,Male,11051.0
+Iran (Islamic Republic of),2015,Both sexes,20438.0
+Iran (Islamic Republic of),2016,Female,9229.0
+Iran (Islamic Republic of),2016,Male,10835.0
+Iran (Islamic Republic of),2016,Both sexes,20064.0
+Iran (Islamic Republic of),2013,Female,9689.0
+Iran (Islamic Republic of),2018,Both sexes,18989.0
+Iran (Islamic Republic of),2018,Male,10247.0
+Iran (Islamic Republic of),2018,Female,8742.0
+Iran (Islamic Republic of),2013,Male,11387.0
+Iran (Islamic Republic of),2017,Both sexes,19574.0
+Iran (Islamic Republic of),2017,Male,10578.0
+Iran (Islamic Republic of),2017,Female,8996.0
+Iraq,2017,Female,11077.0
+Iraq,2018,Both sexes,24865.0
+Iraq,2018,Male,14060.0
+Iraq,2018,Female,10805.0
+Iraq,2016,Both sexes,26078.0
+Iraq,2017,Male,14388.0
+Iraq,2013,Male,15652.0
+Iraq,2013,Both sexes,27775.0
+Iraq,2016,Male,14727.0
+Iraq,2016,Female,11351.0
+Iraq,2015,Both sexes,26715.0
+Iraq,2015,Male,15069.0
+Iraq,2015,Female,11646.0
+Iraq,2014,Both sexes,27293.0
+Iraq,2014,Male,15392.0
+Iraq,2013,Female,12123.0
+Iraq,2017,Both sexes,25465.0
+Iraq,2014,Female,11901.0
+Ireland,2016,Female,94.0
+Ireland,2013,Both sexes,235.0
+Ireland,2014,Female,101.0
+Ireland,2014,Male,128.0
+Ireland,2014,Both sexes,229.0
+Ireland,2016,Both sexes,215.0
+Ireland,2015,Male,124.0
+Ireland,2015,Both sexes,222.0
+Ireland,2016,Male,121.0
+Ireland,2015,Female,98.0
+Ireland,2013,Male,131.0
+Ireland,2013,Female,104.0
+Ireland,2018,Both sexes,197.0
+Ireland,2018,Male,110.0
+Ireland,2018,Female,87.0
+Ireland,2017,Both sexes,206.0
+Ireland,2017,Male,115.0
+Ireland,2017,Female,91.0
+Israel,2015,Both sexes,523.0
+Israel,2015,Male,286.0
+Israel,2015,Female,237.0
+Israel,2014,Both sexes,531.0
+Israel,2013,Male,295.0
+Israel,2014,Female,240.0
+Israel,2013,Both sexes,539.0
+Israel,2016,Male,282.0
+Israel,2013,Female,244.0
+Israel,2014,Male,291.0
+Israel,2016,Both sexes,516.0
+Israel,2016,Female,234.0
+Israel,2018,Both sexes,502.0
+Israel,2017,Female,231.0
+Israel,2017,Male,279.0
+Israel,2017,Both sexes,510.0
+Israel,2018,Female,227.0
+Israel,2018,Male,275.0
+Italy,2014,Both sexes,1566.0
+Italy,2014,Male,873.0
+Italy,2014,Female,693.0
+Italy,2013,Both sexes,1658.0
+Italy,2013,Male,925.0
+Italy,2013,Female,733.0
+Italy,2015,Both sexes,1471.0
+Italy,2016,Female,609.0
+Italy,2017,Male,714.0
+Italy,2016,Both sexes,1375.0
+Italy,2017,Female,569.0
+Italy,2018,Both sexes,1200.0
+Italy,2018,Male,668.0
+Italy,2018,Female,532.0
+Italy,2015,Female,651.0
+Italy,2017,Both sexes,1283.0
+Italy,2016,Male,766.0
+Italy,2015,Male,820.0
+Jamaica,2015,Male,376.0
+Jamaica,2016,Male,362.0
+Jamaica,2018,Both sexes,587.0
+Jamaica,2018,Male,335.0
+Jamaica,2018,Female,252.0
+Jamaica,2017,Both sexes,609.0
+Jamaica,2013,Female,302.0
+Jamaica,2013,Male,404.0
+Jamaica,2016,Both sexes,633.0
+Jamaica,2013,Both sexes,706.0
+Jamaica,2014,Male,390.0
+Jamaica,2014,Both sexes,681.0
+Jamaica,2015,Female,281.0
+Jamaica,2017,Female,261.0
+Jamaica,2015,Both sexes,657.0
+Jamaica,2016,Female,271.0
+Jamaica,2014,Female,291.0
+Jamaica,2017,Male,348.0
+Japan,2014,Female,1001.0
+Japan,2016,Male,1042.0
+Japan,2017,Female,853.0
+Japan,2017,Male,983.0
+Japan,2017,Both sexes,1836.0
+Japan,2018,Female,805.0
+Japan,2018,Both sexes,1734.0
+Japan,2013,Female,1049.0
+Japan,2013,Male,1233.0
+Japan,2018,Male,929.0
+Japan,2014,Male,1168.0
+Japan,2014,Both sexes,2169.0
+Japan,2015,Female,981.0
+Japan,2015,Male,1135.0
+Japan,2015,Both sexes,2116.0
+Japan,2016,Female,903.0
+Japan,2013,Both sexes,2282.0
+Japan,2016,Both sexes,1945.0
+Jordan,2017,Female,1378.0
+Jordan,2018,Both sexes,3001.0
+Jordan,2018,Male,1674.0
+Jordan,2018,Female,1327.0
+Jordan,2017,Both sexes,3118.0
+Jordan,2017,Male,1740.0
+Jordan,2013,Male,1955.0
+Jordan,2016,Male,1805.0
+Jordan,2015,Both sexes,3337.0
+Jordan,2015,Male,1864.0
+Jordan,2015,Female,1473.0
+Jordan,2014,Both sexes,3428.0
+Jordan,2014,Male,1916.0
+Jordan,2014,Female,1512.0
+Jordan,2013,Both sexes,3499.0
+Jordan,2016,Female,1425.0
+Jordan,2013,Female,1544.0
+Jordan,2016,Both sexes,3230.0
+Kazakhstan,2018,Both sexes,3399.0
+Kazakhstan,2018,Male,1981.0
+Kazakhstan,2018,Female,1418.0
+Kazakhstan,2016,Male,2247.0
+Kazakhstan,2017,Both sexes,3603.0
+Kazakhstan,2017,Male,2100.0
+Kazakhstan,2017,Female,1503.0
+Kazakhstan,2016,Female,1601.0
+Kazakhstan,2016,Both sexes,3848.0
+Kazakhstan,2015,Both sexes,4150.0
+Kazakhstan,2015,Male,2426.0
+Kazakhstan,2014,Both sexes,4525.0
+Kazakhstan,2014,Male,2648.0
+Kazakhstan,2014,Female,1877.0
+Kazakhstan,2013,Both sexes,4980.0
+Kazakhstan,2013,Male,2915.0
+Kazakhstan,2013,Female,2065.0
+Kazakhstan,2015,Female,1724.0
+Kenya,2013,Female,23298.0
+Kenya,2016,Male,26461.0
+Kenya,2016,Female,20922.0
+Kenya,2015,Both sexes,48691.0
+Kenya,2015,Male,27165.0
+Kenya,2015,Female,21526.0
+Kenya,2014,Both sexes,50800.0
+Kenya,2014,Male,28299.0
+Kenya,2016,Both sexes,47383.0
+Kenya,2018,Both sexes,44952.0
+Kenya,2013,Male,29298.0
+Kenya,2018,Male,25093.0
+Kenya,2018,Female,19859.0
+Kenya,2017,Both sexes,46502.0
+Kenya,2017,Male,25949.0
+Kenya,2017,Female,20553.0
+Kenya,2013,Both sexes,52596.0
+Kenya,2014,Female,22501.0
+Kiribati,2018,Both sexes,133.0
+Kiribati,2018,Male,75.0
+Kiribati,2018,Female,58.0
+Kiribati,2017,Both sexes,136.0
+Kiribati,2017,Male,77.0
+Kiribati,2017,Female,59.0
+Kiribati,2016,Both sexes,139.0
+Kiribati,2013,Female,63.0
+Kiribati,2013,Male,83.0
+Kiribati,2013,Both sexes,146.0
+Kiribati,2014,Female,63.0
+Kiribati,2014,Male,81.0
+Kiribati,2014,Both sexes,144.0
+Kiribati,2015,Female,62.0
+Kiribati,2015,Male,80.0
+Kiribati,2015,Both sexes,142.0
+Kiribati,2016,Female,61.0
+Kiribati,2016,Male,78.0
+Kuwait,2018,Both sexes,388.0
+Kuwait,2018,Male,214.0
+Kuwait,2018,Female,174.0
+Kuwait,2017,Both sexes,408.0
+Kuwait,2014,Male,255.0
+Kuwait,2017,Female,183.0
+Kuwait,2013,Female,214.0
+Kuwait,2013,Male,264.0
+Kuwait,2013,Both sexes,478.0
+Kuwait,2014,Both sexes,462.0
+Kuwait,2015,Female,200.0
+Kuwait,2014,Female,207.0
+Kuwait,2015,Both sexes,445.0
+Kuwait,2016,Female,191.0
+Kuwait,2016,Male,236.0
+Kuwait,2016,Both sexes,427.0
+Kuwait,2015,Male,245.0
+Kuwait,2017,Male,225.0
+Kyrgyzstan,2015,Both sexes,3223.0
+Kyrgyzstan,2016,Both sexes,3034.0
+Kyrgyzstan,2016,Male,1733.0
+Kyrgyzstan,2016,Female,1301.0
+Kyrgyzstan,2015,Male,1841.0
+Kyrgyzstan,2014,Both sexes,3381.0
+Kyrgyzstan,2018,Both sexes,2643.0
+Kyrgyzstan,2018,Male,1511.0
+Kyrgyzstan,2018,Female,1132.0
+Kyrgyzstan,2017,Both sexes,2834.0
+Kyrgyzstan,2017,Male,1619.0
+Kyrgyzstan,2017,Female,1215.0
+Kyrgyzstan,2015,Female,1382.0
+Kyrgyzstan,2014,Male,1931.0
+Kyrgyzstan,2013,Female,1499.0
+Kyrgyzstan,2013,Male,1998.0
+Kyrgyzstan,2013,Both sexes,3497.0
+Kyrgyzstan,2014,Female,1450.0
+Lao People's Democratic Republic,2018,Female,2680.0
+Lao People's Democratic Republic,2017,Both sexes,6462.0
+Lao People's Democratic Republic,2018,Male,3547.0
+Lao People's Democratic Republic,2018,Both sexes,6227.0
+Lao People's Democratic Republic,2017,Female,2783.0
+Lao People's Democratic Republic,2017,Male,3679.0
+Lao People's Democratic Republic,2013,Female,3265.0
+Lao People's Democratic Republic,2013,Male,4289.0
+Lao People's Democratic Republic,2014,Female,3130.0
+Lao People's Democratic Republic,2014,Male,4111.0
+Lao People's Democratic Republic,2014,Both sexes,7241.0
+Lao People's Democratic Republic,2013,Both sexes,7554.0
+Lao People's Democratic Republic,2015,Male,3951.0
+Lao People's Democratic Republic,2015,Both sexes,6953.0
+Lao People's Democratic Republic,2016,Female,2886.0
+Lao People's Democratic Republic,2016,Male,3811.0
+Lao People's Democratic Republic,2016,Both sexes,6697.0
+Lao People's Democratic Republic,2015,Female,3002.0
+Latvia,2013,Male,59.0
+Latvia,2018,Both sexes,68.0
+Latvia,2018,Male,38.0
+Latvia,2018,Female,30.0
+Latvia,2017,Both sexes,74.0
+Latvia,2017,Male,41.0
+Latvia,2017,Female,33.0
+Latvia,2013,Female,49.0
+Latvia,2013,Both sexes,108.0
+Latvia,2015,Male,48.0
+Latvia,2014,Male,54.0
+Latvia,2014,Both sexes,98.0
+Latvia,2015,Female,40.0
+Latvia,2015,Both sexes,88.0
+Latvia,2016,Female,36.0
+Latvia,2016,Male,45.0
+Latvia,2016,Both sexes,81.0
+Latvia,2014,Female,44.0
+Lebanon,2018,Female,348.0
+Lebanon,2018,Male,393.0
+Lebanon,2018,Both sexes,741.0
+Lebanon,2017,Female,356.0
+Lebanon,2013,Female,356.0
+Lebanon,2016,Male,411.0
+Lebanon,2014,Both sexes,771.0
+Lebanon,2016,Both sexes,772.0
+Lebanon,2017,Both sexes,760.0
+Lebanon,2016,Female,361.0
+Lebanon,2015,Both sexes,776.0
+Lebanon,2015,Male,413.0
+Lebanon,2015,Female,363.0
+Lebanon,2013,Male,409.0
+Lebanon,2017,Male,404.0
+Lebanon,2014,Female,361.0
+Lebanon,2013,Both sexes,765.0
+Lebanon,2014,Male,410.0
+Lesotho,2018,Male,2040.0
+Lesotho,2018,Female,1637.0
+Lesotho,2017,Both sexes,3873.0
+Lesotho,2017,Male,2148.0
+Lesotho,2017,Female,1725.0
+Lesotho,2018,Both sexes,3677.0
+Lesotho,2015,Male,2236.0
+Lesotho,2013,Female,1853.0
+Lesotho,2013,Male,2304.0
+Lesotho,2013,Both sexes,4157.0
+Lesotho,2016,Both sexes,3973.0
+Lesotho,2016,Male,2202.0
+Lesotho,2016,Female,1771.0
+Lesotho,2015,Both sexes,4033.0
+Lesotho,2014,Female,1804.0
+Lesotho,2015,Female,1797.0
+Lesotho,2014,Both sexes,4049.0
+Lesotho,2014,Male,2245.0
+Liberia,2015,Female,3900.0
+Liberia,2016,Male,4859.0
+Liberia,2016,Both sexes,8683.0
+Liberia,2014,Both sexes,9014.0
+Liberia,2018,Both sexes,8402.0
+Liberia,2018,Male,4707.0
+Liberia,2018,Female,3695.0
+Liberia,2017,Both sexes,8534.0
+Liberia,2017,Male,4781.0
+Liberia,2017,Female,3753.0
+Liberia,2015,Both sexes,8845.0
+Liberia,2015,Male,4945.0
+Liberia,2016,Female,3824.0
+Liberia,2013,Male,5133.0
+Liberia,2014,Male,5038.0
+Liberia,2014,Female,3976.0
+Liberia,2013,Both sexes,9192.0
+Liberia,2013,Female,4059.0
+Libya,2014,Female,684.0
+Libya,2014,Male,911.0
+Libya,2014,Both sexes,1595.0
+Libya,2015,Female,653.0
+Libya,2015,Male,865.0
+Libya,2015,Both sexes,1518.0
+Libya,2016,Male,821.0
+Libya,2016,Female,618.0
+Libya,2013,Both sexes,1675.0
+Libya,2018,Both sexes,1298.0
+Libya,2018,Male,740.0
+Libya,2018,Female,558.0
+Libya,2017,Both sexes,1365.0
+Libya,2017,Male,778.0
+Libya,2017,Female,587.0
+Libya,2016,Both sexes,1439.0
+Libya,2013,Male,955.0
+Libya,2013,Female,720.0
+Lithuania,2013,Male,71.0
+Lithuania,2017,Female,48.0
+Lithuania,2017,Male,58.0
+Lithuania,2017,Both sexes,106.0
+Lithuania,2018,Female,43.0
+Lithuania,2018,Male,52.0
+Lithuania,2018,Both sexes,95.0
+Lithuania,2014,Female,56.0
+Lithuania,2013,Both sexes,128.0
+Lithuania,2016,Both sexes,116.0
+Lithuania,2013,Female,57.0
+Lithuania,2014,Male,70.0
+Lithuania,2015,Both sexes,122.0
+Lithuania,2016,Male,64.0
+Lithuania,2014,Both sexes,126.0
+Lithuania,2016,Female,52.0
+Lithuania,2015,Male,67.0
+Lithuania,2015,Female,55.0
+Luxembourg,2017,Female,6.0
+Luxembourg,2017,Male,7.0
+Luxembourg,2017,Both sexes,13.0
+Luxembourg,2018,Female,6.0
+Luxembourg,2018,Male,6.0
+Luxembourg,2018,Both sexes,12.0
+Luxembourg,2014,Male,7.0
+Luxembourg,2014,Both sexes,13.0
+Luxembourg,2013,Male,7.0
+Luxembourg,2013,Both sexes,13.0
+Luxembourg,2014,Female,6.0
+Luxembourg,2016,Both sexes,13.0
+Luxembourg,2016,Male,7.0
+Luxembourg,2016,Female,6.0
+Luxembourg,2015,Both sexes,13.0
+Luxembourg,2015,Male,7.0
+Luxembourg,2015,Female,6.0
+Luxembourg,2013,Female,6.0
+Madagascar,2018,Both sexes,32306.0
+Madagascar,2018,Male,18020.0
+Madagascar,2018,Female,14286.0
+Madagascar,2017,Both sexes,32443.0
+Madagascar,2017,Male,18093.0
+Madagascar,2017,Female,14350.0
+Madagascar,2013,Female,14543.0
+Madagascar,2013,Male,18239.0
+Madagascar,2016,Both sexes,32498.0
+Madagascar,2016,Male,18108.0
+Madagascar,2016,Female,14390.0
+Madagascar,2015,Both sexes,32565.0
+Madagascar,2015,Male,18134.0
+Madagascar,2015,Female,14431.0
+Madagascar,2014,Both sexes,32643.0
+Madagascar,2014,Male,18169.0
+Madagascar,2014,Female,14474.0
+Madagascar,2013,Both sexes,32782.0
+Malawi,2016,Female,10085.0
+Malawi,2015,Both sexes,23949.0
+Malawi,2015,Male,13411.0
+Malawi,2015,Female,10538.0
+Malawi,2013,Male,14861.0
+Malawi,2014,Male,13987.0
+Malawi,2014,Female,11015.0
+Malawi,2013,Both sexes,26605.0
+Malawi,2016,Male,12872.0
+Malawi,2014,Both sexes,25002.0
+Malawi,2016,Both sexes,22957.0
+Malawi,2013,Female,11744.0
+Malawi,2018,Male,12153.0
+Malawi,2018,Female,9489.0
+Malawi,2017,Both sexes,22243.0
+Malawi,2017,Male,12487.0
+Malawi,2017,Female,9756.0
+Malawi,2018,Both sexes,21642.0
+Malaysia,2016,Both sexes,3529.0
+Malaysia,2016,Male,1968.0
+Malaysia,2016,Female,1561.0
+Malaysia,2015,Both sexes,3509.0
+Malaysia,2015,Male,1960.0
+Malaysia,2015,Female,1549.0
+Malaysia,2014,Both sexes,3469.0
+Malaysia,2014,Male,1943.0
+Malaysia,2013,Female,1498.0
+Malaysia,2013,Both sexes,3419.0
+Malaysia,2017,Female,1559.0
+Malaysia,2017,Male,1967.0
+Malaysia,2017,Both sexes,3526.0
+Malaysia,2018,Female,1547.0
+Malaysia,2018,Male,1954.0
+Malaysia,2018,Both sexes,3501.0
+Malaysia,2014,Female,1526.0
+Malaysia,2013,Male,1921.0
+Maldives,2018,Both sexes,53.0
+Maldives,2016,Both sexes,60.0
+Maldives,2017,Female,24.0
+Maldives,2017,Male,32.0
+Maldives,2017,Both sexes,56.0
+Maldives,2018,Female,23.0
+Maldives,2018,Male,30.0
+Maldives,2013,Male,42.0
+Maldives,2013,Both sexes,73.0
+Maldives,2013,Female,31.0
+Maldives,2014,Male,39.0
+Maldives,2014,Both sexes,68.0
+Maldives,2015,Female,27.0
+Maldives,2015,Male,37.0
+Maldives,2015,Both sexes,64.0
+Maldives,2016,Female,26.0
+Maldives,2016,Male,34.0
+Maldives,2014,Female,29.0
+Mali,2017,Female,21685.0
+Mali,2018,Both sexes,48323.0
+Mali,2018,Male,26859.0
+Mali,2018,Female,21464.0
+Mali,2017,Both sexes,48773.0
+Mali,2017,Male,27088.0
+Mali,2014,Male,27948.0
+Mali,2014,Female,22486.0
+Mali,2016,Both sexes,49288.0
+Mali,2016,Male,27350.0
+Mali,2015,Both sexes,49862.0
+Mali,2015,Male,27649.0
+Mali,2016,Female,21938.0
+Mali,2015,Female,22213.0
+Mali,2013,Female,22774.0
+Mali,2014,Both sexes,50434.0
+Mali,2013,Male,28265.0
+Mali,2013,Both sexes,51039.0
+Malta,2017,Female,12.0
+Malta,2018,Both sexes,26.0
+Malta,2018,Male,14.0
+Malta,2018,Female,12.0
+Malta,2017,Both sexes,26.0
+Malta,2017,Male,14.0
+Malta,2016,Both sexes,26.0
+Malta,2016,Male,15.0
+Malta,2016,Female,11.0
+Malta,2015,Both sexes,25.0
+Malta,2015,Male,14.0
+Malta,2015,Female,11.0
+Malta,2014,Both sexes,25.0
+Malta,2014,Male,14.0
+Malta,2014,Female,11.0
+Malta,2013,Both sexes,24.0
+Malta,2013,Male,13.0
+Malta,2013,Female,11.0
+Marshall Islands,2014,Both sexes,45.0
+Marshall Islands,2014,Male,26.0
+Marshall Islands,2013,Male,27.0
+Marshall Islands,2013,Female,20.0
+Marshall Islands,2018,Both sexes,38.0
+Marshall Islands,2015,Female,19.0
+Marshall Islands,2015,Male,24.0
+Marshall Islands,2015,Both sexes,43.0
+Marshall Islands,2016,Female,18.0
+Marshall Islands,2014,Female,19.0
+Marshall Islands,2016,Both sexes,41.0
+Marshall Islands,2013,Both sexes,47.0
+Marshall Islands,2017,Female,17.0
+Marshall Islands,2017,Both sexes,40.0
+Marshall Islands,2018,Female,16.0
+Marshall Islands,2018,Male,22.0
+Marshall Islands,2017,Male,23.0
+Marshall Islands,2016,Male,23.0
+Mauritania,2018,Female,3278.0
+Mauritania,2018,Male,4254.0
+Mauritania,2018,Both sexes,7532.0
+Mauritania,2017,Male,4290.0
+Mauritania,2017,Female,3308.0
+Mauritania,2013,Female,3388.0
+Mauritania,2013,Male,4394.0
+Mauritania,2013,Both sexes,7782.0
+Mauritania,2014,Female,3376.0
+Mauritania,2014,Both sexes,7755.0
+Mauritania,2014,Male,4379.0
+Mauritania,2015,Male,4355.0
+Mauritania,2015,Both sexes,7716.0
+Mauritania,2016,Female,3335.0
+Mauritania,2016,Male,4320.0
+Mauritania,2016,Both sexes,7655.0
+Mauritania,2015,Female,3361.0
+Mauritania,2017,Both sexes,7598.0
+Mauritius,2015,Both sexes,168.0
+Mauritius,2016,Both sexes,166.0
+Mauritius,2016,Male,94.0
+Mauritius,2016,Female,72.0
+Mauritius,2015,Male,95.0
+Mauritius,2014,Both sexes,173.0
+Mauritius,2017,Female,73.0
+Mauritius,2017,Male,95.0
+Mauritius,2017,Both sexes,168.0
+Mauritius,2015,Female,73.0
+Mauritius,2018,Male,99.0
+Mauritius,2018,Female,76.0
+Mauritius,2013,Female,78.0
+Mauritius,2013,Male,100.0
+Mauritius,2013,Both sexes,178.0
+Mauritius,2014,Female,75.0
+Mauritius,2014,Male,98.0
+Mauritius,2018,Both sexes,175.0
+Mexico,2018,Both sexes,24359.0
+Mexico,2018,Male,13696.0
+Mexico,2017,Both sexes,25853.0
+Mexico,2018,Female,10663.0
+Mexico,2013,Both sexes,31194.0
+Mexico,2016,Both sexes,27377.0
+Mexico,2016,Male,15403.0
+Mexico,2016,Female,11974.0
+Mexico,2015,Both sexes,28807.0
+Mexico,2015,Male,16203.0
+Mexico,2015,Female,12604.0
+Mexico,2014,Both sexes,30076.0
+Mexico,2014,Male,16971.0
+Mexico,2014,Female,13105.0
+Mexico,2017,Male,14546.0
+Mexico,2013,Female,13629.0
+Mexico,2017,Female,11307.0
+Mexico,2013,Male,17565.0
+Micronesia (Federated States of),2018,Female,28.0
+Micronesia (Federated States of),2017,Female,29.0
+Micronesia (Federated States of),2017,Male,38.0
+Micronesia (Federated States of),2017,Both sexes,67.0
+Micronesia (Federated States of),2018,Male,37.0
+Micronesia (Federated States of),2018,Both sexes,65.0
+Micronesia (Federated States of),2016,Both sexes,69.0
+Micronesia (Federated States of),2016,Male,40.0
+Micronesia (Federated States of),2016,Female,29.0
+Micronesia (Federated States of),2015,Both sexes,70.0
+Micronesia (Federated States of),2015,Male,40.0
+Micronesia (Federated States of),2015,Female,30.0
+Micronesia (Federated States of),2014,Both sexes,72.0
+Micronesia (Federated States of),2014,Male,41.0
+Micronesia (Federated States of),2014,Female,31.0
+Micronesia (Federated States of),2013,Male,42.0
+Micronesia (Federated States of),2013,Female,32.0
+Micronesia (Federated States of),2013,Both sexes,74.0
+Monaco,2017,Male,1.0
+Monaco,2013,Female,0.0
+Monaco,2013,Male,1.0
+Monaco,2013,Both sexes,1.0
+Monaco,2017,Female,0.0
+Monaco,2014,Female,0.0
+Monaco,2014,Both sexes,1.0
+Monaco,2015,Female,0.0
+Monaco,2015,Both sexes,1.0
+Monaco,2016,Female,0.0
+Monaco,2016,Male,1.0
+Monaco,2016,Both sexes,1.0
+Monaco,2014,Male,1.0
+Monaco,2017,Both sexes,1.0
+Monaco,2015,Male,1.0
+Monaco,2018,Male,1.0
+Monaco,2018,Both sexes,1.0
+Monaco,2018,Female,0.0
+Mongolia,2017,Both sexes,1128.0
+Mongolia,2018,Female,421.0
+Mongolia,2018,Male,653.0
+Mongolia,2018,Both sexes,1074.0
+Mongolia,2013,Female,511.0
+Mongolia,2013,Male,796.0
+Mongolia,2013,Both sexes,1307.0
+Mongolia,2014,Male,770.0
+Mongolia,2014,Both sexes,1265.0
+Mongolia,2015,Female,478.0
+Mongolia,2015,Male,744.0
+Mongolia,2016,Female,461.0
+Mongolia,2016,Male,714.0
+Mongolia,2016,Both sexes,1175.0
+Mongolia,2017,Male,686.0
+Mongolia,2014,Female,495.0
+Mongolia,2017,Female,442.0
+Mongolia,2015,Both sexes,1222.0
+Montenegro,2018,Male,9.0
+Montenegro,2016,Both sexes,20.0
+Montenegro,2016,Male,11.0
+Montenegro,2016,Female,9.0
+Montenegro,2015,Both sexes,23.0
+Montenegro,2015,Male,13.0
+Montenegro,2015,Female,10.0
+Montenegro,2014,Both sexes,26.0
+Montenegro,2014,Male,14.0
+Montenegro,2014,Female,12.0
+Montenegro,2013,Both sexes,30.0
+Montenegro,2013,Male,16.0
+Montenegro,2013,Female,14.0
+Montenegro,2018,Both sexes,17.0
+Montenegro,2017,Female,8.0
+Montenegro,2017,Male,10.0
+Montenegro,2017,Both sexes,18.0
+Montenegro,2018,Female,8.0
+Morocco,2016,Male,8282.0
+Morocco,2016,Female,6324.0
+Morocco,2015,Both sexes,15389.0
+Morocco,2015,Male,8716.0
+Morocco,2015,Female,6673.0
+Morocco,2014,Both sexes,16153.0
+Morocco,2014,Male,9146.0
+Morocco,2014,Female,7007.0
+Morocco,2013,Female,7324.0
+Morocco,2016,Both sexes,14606.0
+Morocco,2013,Male,9552.0
+Morocco,2018,Both sexes,13134.0
+Morocco,2018,Male,7453.0
+Morocco,2018,Female,5681.0
+Morocco,2017,Both sexes,13856.0
+Morocco,2013,Both sexes,16876.0
+Morocco,2017,Male,7866.0
+Morocco,2017,Female,5990.0
+Mozambique,2013,Male,33661.0
+Mozambique,2013,Both sexes,62521.0
+Mozambique,2014,Male,33283.0
+Mozambique,2017,Female,27246.0
+Mozambique,2017,Male,32077.0
+Mozambique,2017,Both sexes,59323.0
+Mozambique,2018,Female,26983.0
+Mozambique,2015,Female,28070.0
+Mozambique,2018,Male,31852.0
+Mozambique,2014,Female,28456.0
+Mozambique,2013,Female,28860.0
+Mozambique,2016,Both sexes,60257.0
+Mozambique,2016,Male,32561.0
+Mozambique,2016,Female,27696.0
+Mozambique,2015,Both sexes,61007.0
+Mozambique,2015,Male,32937.0
+Mozambique,2018,Both sexes,58835.0
+Mozambique,2014,Both sexes,61739.0
+Myanmar,2018,Both sexes,34554.0
+Myanmar,2018,Male,19407.0
+Myanmar,2018,Female,15147.0
+Myanmar,2017,Both sexes,35707.0
+Myanmar,2017,Male,20039.0
+Myanmar,2017,Female,15668.0
+Myanmar,2015,Male,21485.0
+Myanmar,2013,Both sexes,41702.0
+Myanmar,2016,Both sexes,36987.0
+Myanmar,2016,Male,20724.0
+Myanmar,2016,Female,16263.0
+Myanmar,2015,Both sexes,38351.0
+Myanmar,2015,Female,16866.0
+Myanmar,2014,Both sexes,39892.0
+Myanmar,2014,Male,22334.0
+Myanmar,2013,Female,18358.0
+Myanmar,2013,Male,23344.0
+Myanmar,2014,Female,17558.0
+Namibia,2014,Female,1047.0
+Namibia,2016,Both sexes,2118.0
+Namibia,2016,Male,1171.0
+Namibia,2016,Female,947.0
+Namibia,2015,Both sexes,2303.0
+Namibia,2015,Male,1272.0
+Namibia,2015,Female,1031.0
+Namibia,2014,Male,1289.0
+Namibia,2013,Both sexes,2367.0
+Namibia,2014,Both sexes,2336.0
+Namibia,2013,Female,1062.0
+Namibia,2017,Both sexes,2066.0
+Namibia,2013,Male,1305.0
+Namibia,2018,Both sexes,2020.0
+Namibia,2018,Male,1118.0
+Namibia,2018,Female,902.0
+Namibia,2017,Male,1143.0
+Namibia,2017,Female,923.0
+Nauru,2015,Both sexes,9.0
+Nauru,2015,Male,5.0
+Nauru,2015,Female,4.0
+Nauru,2014,Both sexes,9.0
+Nauru,2016,Both sexes,9.0
+Nauru,2014,Male,5.0
+Nauru,2014,Female,4.0
+Nauru,2013,Both sexes,10.0
+Nauru,2016,Female,4.0
+Nauru,2016,Male,5.0
+Nauru,2017,Both sexes,8.0
+Nauru,2017,Female,4.0
+Nauru,2017,Male,4.0
+Nauru,2013,Male,6.0
+Nauru,2018,Female,3.0
+Nauru,2018,Male,5.0
+Nauru,2018,Both sexes,8.0
+Nauru,2013,Female,4.0
+Nepal,2013,Both sexes,18955.0
+Nepal,2013,Male,10495.0
+Nepal,2013,Female,8460.0
+Nepal,2014,Female,7983.0
+Nepal,2016,Female,7204.0
+Nepal,2016,Male,9047.0
+Nepal,2014,Both sexes,17928.0
+Nepal,2015,Female,7571.0
+Nepal,2015,Both sexes,17035.0
+Nepal,2014,Male,9945.0
+Nepal,2015,Male,9464.0
+Nepal,2017,Female,6887.0
+Nepal,2018,Both sexes,14981.0
+Nepal,2018,Male,8372.0
+Nepal,2018,Female,6609.0
+Nepal,2017,Both sexes,15571.0
+Nepal,2017,Male,8684.0
+Nepal,2016,Both sexes,16251.0
+Netherlands,2014,Both sexes,609.0
+Netherlands,2013,Female,274.0
+Netherlands,2013,Male,350.0
+Netherlands,2013,Both sexes,624.0
+Netherlands,2014,Female,268.0
+Netherlands,2014,Male,341.0
+Netherlands,2015,Female,262.0
+Netherlands,2015,Male,334.0
+Netherlands,2018,Both sexes,568.0
+Netherlands,2016,Female,258.0
+Netherlands,2016,Male,327.0
+Netherlands,2016,Both sexes,585.0
+Netherlands,2018,Male,318.0
+Netherlands,2018,Female,250.0
+Netherlands,2017,Both sexes,576.0
+Netherlands,2017,Male,322.0
+Netherlands,2017,Female,254.0
+Netherlands,2015,Both sexes,596.0
+New Zealand,2013,Male,174.0
+New Zealand,2013,Both sexes,308.0
+New Zealand,2014,Female,132.0
+New Zealand,2014,Male,172.0
+New Zealand,2016,Male,167.0
+New Zealand,2015,Male,169.0
+New Zealand,2015,Both sexes,300.0
+New Zealand,2016,Female,128.0
+New Zealand,2016,Both sexes,295.0
+New Zealand,2014,Both sexes,304.0
+New Zealand,2013,Female,134.0
+New Zealand,2015,Female,131.0
+New Zealand,2018,Both sexes,282.0
+New Zealand,2018,Male,159.0
+New Zealand,2018,Female,123.0
+New Zealand,2017,Both sexes,289.0
+New Zealand,2017,Male,163.0
+New Zealand,2017,Female,126.0
+Nicaragua,2014,Male,1270.0
+Nicaragua,2013,Male,1284.0
+Nicaragua,2013,Both sexes,2243.0
+Nicaragua,2014,Female,948.0
+Nicaragua,2014,Both sexes,2218.0
+Nicaragua,2015,Both sexes,2194.0
+Nicaragua,2015,Male,1256.0
+Nicaragua,2013,Female,959.0
+Nicaragua,2016,Female,927.0
+Nicaragua,2015,Female,938.0
+Nicaragua,2016,Male,1241.0
+Nicaragua,2016,Both sexes,2168.0
+Nicaragua,2018,Both sexes,2095.0
+Nicaragua,2018,Male,1199.0
+Nicaragua,2018,Female,896.0
+Nicaragua,2017,Both sexes,2136.0
+Nicaragua,2017,Male,1222.0
+Nicaragua,2017,Female,914.0
+Niger,2017,Female,21476.0
+Niger,2017,Both sexes,48478.0
+Niger,2013,Female,21630.0
+Niger,2013,Male,26929.0
+Niger,2013,Both sexes,48559.0
+Niger,2014,Female,21569.0
+Niger,2014,Both sexes,48445.0
+Niger,2015,Female,21517.0
+Niger,2014,Male,26876.0
+Niger,2015,Both sexes,48434.0
+Niger,2018,Both sexes,48705.0
+Niger,2015,Male,26917.0
+Niger,2018,Male,27127.0
+Niger,2018,Female,21578.0
+Niger,2017,Male,27002.0
+Niger,2016,Male,26941.0
+Niger,2016,Female,21483.0
+Niger,2016,Both sexes,48424.0
+Nigeria,2016,Both sexes,552485.0
+Nigeria,2016,Male,309382.0
+Nigeria,2013,Male,305600.0
+Nigeria,2015,Both sexes,550554.0
+Nigeria,2015,Male,308428.0
+Nigeria,2015,Female,242126.0
+Nigeria,2014,Both sexes,548084.0
+Nigeria,2014,Male,306874.0
+Nigeria,2014,Female,241210.0
+Nigeria,2013,Both sexes,545530.0
+Nigeria,2016,Female,243103.0
+Nigeria,2013,Female,239930.0
+Nigeria,2018,Both sexes,551684.0
+Nigeria,2018,Male,309051.0
+Nigeria,2018,Female,242633.0
+Nigeria,2017,Both sexes,552981.0
+Nigeria,2017,Male,309831.0
+Nigeria,2017,Female,243150.0
+Niue,2016,Female,1.0
+Niue,2017,Both sexes,1.0
+Niue,2017,Male,0.0
+Niue,2017,Female,1.0
+Niue,2016,Both sexes,1.0
+Niue,2016,Male,0.0
+Niue,2018,Both sexes,1.0
+Niue,2015,Both sexes,1.0
+Niue,2015,Male,0.0
+Niue,2014,Male,0.0
+Niue,2014,Both sexes,1.0
+Niue,2018,Female,1.0
+Niue,2014,Female,1.0
+Niue,2013,Both sexes,1.0
+Niue,2013,Male,0.0
+Niue,2013,Female,1.0
+Niue,2015,Female,1.0
+Niue,2018,Male,0.0
+Norway,2015,Male,73.0
+Norway,2016,Male,72.0
+Norway,2015,Female,57.0
+Norway,2014,Male,75.0
+Norway,2014,Female,59.0
+Norway,2013,Both sexes,139.0
+Norway,2013,Male,78.0
+Norway,2013,Female,61.0
+Norway,2016,Female,55.0
+Norway,2016,Both sexes,127.0
+Norway,2014,Both sexes,134.0
+Norway,2015,Both sexes,130.0
+Norway,2018,Both sexes,121.0
+Norway,2018,Male,68.0
+Norway,2018,Female,53.0
+Norway,2017,Both sexes,124.0
+Norway,2017,Male,70.0
+Norway,2017,Female,54.0
+Oman,2014,Both sexes,789.0
+Oman,2018,Female,388.0
+Oman,2017,Both sexes,876.0
+Oman,2017,Male,494.0
+Oman,2017,Female,382.0
+Oman,2018,Male,503.0
+Oman,2013,Both sexes,758.0
+Oman,2014,Female,344.0
+Oman,2014,Male,445.0
+Oman,2013,Female,330.0
+Oman,2015,Female,358.0
+Oman,2015,Male,463.0
+Oman,2015,Both sexes,821.0
+Oman,2016,Female,371.0
+Oman,2016,Male,481.0
+Oman,2016,Both sexes,852.0
+Oman,2018,Both sexes,891.0
+Oman,2013,Male,428.0
+Pakistan,2017,Both sexes,344719.0
+Pakistan,2018,Female,145995.0
+Pakistan,2018,Male,192400.0
+Pakistan,2018,Both sexes,338395.0
+Pakistan,2013,Male,205720.0
+Pakistan,2013,Both sexes,362500.0
+Pakistan,2016,Male,199320.0
+Pakistan,2016,Female,151235.0
+Pakistan,2015,Both sexes,355142.0
+Pakistan,2015,Male,201732.0
+Pakistan,2015,Female,153410.0
+Pakistan,2014,Both sexes,358949.0
+Pakistan,2014,Male,203873.0
+Pakistan,2014,Female,155076.0
+Pakistan,2017,Male,195821.0
+Pakistan,2013,Female,156780.0
+Pakistan,2016,Both sexes,350555.0
+Pakistan,2017,Female,148898.0
+Palau,2018,Both sexes,4.0
+Palau,2018,Male,2.0
+Palau,2013,Female,2.0
+Palau,2013,Male,3.0
+Palau,2013,Both sexes,5.0
+Palau,2014,Female,2.0
+Palau,2014,Both sexes,5.0
+Palau,2015,Female,2.0
+Palau,2015,Male,3.0
+Palau,2014,Male,3.0
+Palau,2016,Female,2.0
+Palau,2016,Male,2.0
+Palau,2016,Both sexes,4.0
+Palau,2017,Female,2.0
+Palau,2017,Male,2.0
+Palau,2017,Both sexes,4.0
+Palau,2018,Female,2.0
+Palau,2015,Both sexes,5.0
+Panama,2015,Female,496.0
+Panama,2014,Both sexes,1179.0
+Panama,2014,Male,669.0
+Panama,2013,Female,523.0
+Panama,2013,Both sexes,1209.0
+Panama,2013,Male,686.0
+Panama,2015,Male,647.0
+Panama,2014,Female,510.0
+Panama,2015,Both sexes,1143.0
+Panama,2018,Female,450.0
+Panama,2016,Male,626.0
+Panama,2016,Both sexes,1107.0
+Panama,2017,Female,465.0
+Panama,2017,Male,607.0
+Panama,2017,Both sexes,1072.0
+Panama,2018,Male,588.0
+Panama,2018,Both sexes,1038.0
+Panama,2016,Female,481.0
+Papua New Guinea,2015,Both sexes,9150.0
+Papua New Guinea,2016,Both sexes,9030.0
+Papua New Guinea,2016,Male,5097.0
+Papua New Guinea,2016,Female,3933.0
+Papua New Guinea,2015,Male,5160.0
+Papua New Guinea,2017,Male,5025.0
+Papua New Guinea,2014,Both sexes,9264.0
+Papua New Guinea,2017,Both sexes,8898.0
+Papua New Guinea,2018,Male,4950.0
+Papua New Guinea,2018,Female,3809.0
+Papua New Guinea,2018,Both sexes,8759.0
+Papua New Guinea,2017,Female,3873.0
+Papua New Guinea,2015,Female,3990.0
+Papua New Guinea,2013,Male,5289.0
+Papua New Guinea,2013,Both sexes,9385.0
+Papua New Guinea,2014,Female,4042.0
+Papua New Guinea,2014,Male,5222.0
+Papua New Guinea,2013,Female,4096.0
+Paraguay,2018,Both sexes,2455.0
+Paraguay,2018,Female,1071.0
+Paraguay,2017,Both sexes,2531.0
+Paraguay,2017,Male,1427.0
+Paraguay,2017,Female,1104.0
+Paraguay,2018,Male,1384.0
+Paraguay,2013,Both sexes,2820.0
+Paraguay,2014,Male,1548.0
+Paraguay,2016,Both sexes,2608.0
+Paraguay,2016,Male,1471.0
+Paraguay,2016,Female,1137.0
+Paraguay,2015,Both sexes,2674.0
+Paraguay,2013,Female,1231.0
+Paraguay,2015,Male,1507.0
+Paraguay,2015,Female,1167.0
+Paraguay,2014,Both sexes,2746.0
+Paraguay,2013,Male,1589.0
+Paraguay,2014,Female,1198.0
+Peru,2018,Both sexes,6346.0
+Peru,2018,Male,3571.0
+Peru,2018,Female,2775.0
+Peru,2017,Both sexes,6576.0
+Peru,2017,Male,3704.0
+Peru,2016,Male,3844.0
+Peru,2016,Both sexes,6823.0
+Peru,2013,Female,3429.0
+Peru,2013,Male,4438.0
+Peru,2013,Both sexes,7867.0
+Peru,2014,Female,3257.0
+Peru,2014,Male,4211.0
+Peru,2015,Female,3109.0
+Peru,2015,Male,4011.0
+Peru,2015,Both sexes,7120.0
+Peru,2016,Female,2979.0
+Peru,2017,Female,2872.0
+Peru,2014,Both sexes,7468.0
+Philippines,2017,Both sexes,50819.0
+Philippines,2015,Male,30817.0
+Philippines,2016,Both sexes,52433.0
+Philippines,2018,Both sexes,49219.0
+Philippines,2018,Male,28147.0
+Philippines,2018,Female,21072.0
+Philippines,2013,Female,24170.0
+Philippines,2013,Male,32192.0
+Philippines,2013,Both sexes,56362.0
+Philippines,2014,Female,23684.0
+Philippines,2017,Male,29047.0
+Philippines,2014,Both sexes,55235.0
+Philippines,2015,Female,23129.0
+Philippines,2017,Female,21772.0
+Philippines,2016,Female,22455.0
+Philippines,2014,Male,31551.0
+Philippines,2015,Both sexes,53946.0
+Philippines,2016,Male,29978.0
+Poland,2017,Female,645.0
+Poland,2017,Male,821.0
+Poland,2017,Both sexes,1466.0
+Poland,2018,Female,624.0
+Poland,2018,Male,793.0
+Poland,2018,Both sexes,1417.0
+Poland,2013,Female,760.0
+Poland,2013,Both sexes,1719.0
+Poland,2014,Female,726.0
+Poland,2014,Male,918.0
+Poland,2014,Both sexes,1644.0
+Poland,2015,Female,696.0
+Poland,2015,Male,882.0
+Poland,2015,Both sexes,1578.0
+Poland,2016,Female,669.0
+Poland,2016,Male,850.0
+Poland,2016,Both sexes,1519.0
+Poland,2013,Male,959.0
+Portugal,2017,Female,109.0
+Portugal,2018,Both sexes,250.0
+Portugal,2018,Male,141.0
+Portugal,2018,Female,109.0
+Portugal,2017,Both sexes,250.0
+Portugal,2014,Both sexes,259.0
+Portugal,2013,Female,117.0
+Portugal,2013,Male,150.0
+Portugal,2013,Both sexes,267.0
+Portugal,2014,Female,113.0
+Portugal,2014,Male,146.0
+Portugal,2015,Female,111.0
+Portugal,2015,Male,143.0
+Portugal,2015,Both sexes,254.0
+Portugal,2016,Female,110.0
+Portugal,2016,Both sexes,251.0
+Portugal,2017,Male,141.0
+Portugal,2016,Male,141.0
+Qatar,2018,Male,84.0
+Qatar,2018,Both sexes,154.0
+Qatar,2017,Female,72.0
+Qatar,2017,Male,87.0
+Qatar,2017,Both sexes,159.0
+Qatar,2018,Female,70.0
+Qatar,2013,Female,75.0
+Qatar,2013,Both sexes,168.0
+Qatar,2014,Female,76.0
+Qatar,2013,Male,93.0
+Qatar,2014,Both sexes,169.0
+Qatar,2015,Female,75.0
+Qatar,2015,Male,92.0
+Qatar,2015,Both sexes,167.0
+Qatar,2016,Female,74.0
+Qatar,2016,Male,90.0
+Qatar,2016,Both sexes,164.0
+Qatar,2014,Male,93.0
+Republic of Korea,2017,Male,614.0
+Republic of Korea,2018,Both sexes,1044.0
+Republic of Korea,2018,Male,575.0
+Republic of Korea,2018,Female,469.0
+Republic of Korea,2017,Both sexes,1113.0
+Republic of Korea,2017,Female,499.0
+Republic of Korea,2014,Male,736.0
+Republic of Korea,2016,Female,533.0
+Republic of Korea,2015,Both sexes,1262.0
+Republic of Korea,2015,Male,695.0
+Republic of Korea,2015,Female,567.0
+Republic of Korea,2014,Both sexes,1337.0
+Republic of Korea,2014,Female,601.0
+Republic of Korea,2013,Both sexes,1409.0
+Republic of Korea,2016,Male,653.0
+Republic of Korea,2013,Male,776.0
+Republic of Korea,2013,Female,633.0
+Republic of Korea,2016,Both sexes,1186.0
+Republic of Moldova,2018,Male,320.0
+Republic of Moldova,2018,Female,239.0
+Republic of Moldova,2017,Both sexes,577.0
+Republic of Moldova,2017,Male,330.0
+Republic of Moldova,2017,Female,247.0
+Republic of Moldova,2018,Both sexes,559.0
+Republic of Moldova,2016,Both sexes,593.0
+Republic of Moldova,2014,Both sexes,622.0
+Republic of Moldova,2013,Both sexes,635.0
+Republic of Moldova,2013,Male,363.0
+Republic of Moldova,2013,Female,272.0
+Republic of Moldova,2015,Female,260.0
+Republic of Moldova,2015,Male,347.0
+Republic of Moldova,2015,Both sexes,607.0
+Republic of Moldova,2014,Female,266.0
+Republic of Moldova,2016,Female,254.0
+Republic of Moldova,2016,Male,339.0
+Republic of Moldova,2014,Male,356.0
+Republic of North Macedonia,2018,Male,107.0
+Republic of North Macedonia,2018,Female,89.0
+Republic of North Macedonia,2017,Both sexes,221.0
+Republic of North Macedonia,2017,Male,121.0
+Republic of North Macedonia,2017,Female,100.0
+Republic of North Macedonia,2018,Both sexes,196.0
+Republic of North Macedonia,2014,Both sexes,245.0
+Republic of North Macedonia,2016,Both sexes,243.0
+Republic of North Macedonia,2014,Male,135.0
+Republic of North Macedonia,2014,Female,110.0
+Republic of North Macedonia,2015,Female,113.0
+Republic of North Macedonia,2013,Male,126.0
+Republic of North Macedonia,2013,Female,103.0
+Republic of North Macedonia,2013,Both sexes,229.0
+Republic of North Macedonia,2015,Both sexes,251.0
+Republic of North Macedonia,2016,Female,110.0
+Republic of North Macedonia,2016,Male,133.0
+Republic of North Macedonia,2015,Male,138.0
+Romania,2017,Male,718.0
+Romania,2018,Both sexes,1165.0
+Romania,2018,Male,658.0
+Romania,2018,Female,507.0
+Romania,2017,Both sexes,1265.0
+Romania,2017,Female,547.0
+Romania,2015,Female,658.0
+Romania,2016,Both sexes,1387.0
+Romania,2016,Male,787.0
+Romania,2016,Female,600.0
+Romania,2015,Both sexes,1527.0
+Romania,2015,Male,869.0
+Romania,2014,Both sexes,1680.0
+Romania,2014,Male,956.0
+Romania,2014,Female,724.0
+Romania,2013,Both sexes,1829.0
+Romania,2013,Male,1041.0
+Romania,2013,Female,788.0
+Russian Federation,2018,Male,6439.0
+Russian Federation,2017,Female,5267.0
+Russian Federation,2018,Both sexes,11374.0
+Russian Federation,2016,Both sexes,12978.0
+Russian Federation,2016,Female,5595.0
+Russian Federation,2015,Both sexes,13837.0
+Russian Federation,2015,Male,7870.0
+Russian Federation,2014,Both sexes,14603.0
+Russian Federation,2014,Male,8316.0
+Russian Federation,2014,Female,6287.0
+Russian Federation,2013,Both sexes,15127.0
+Russian Federation,2013,Male,8613.0
+Russian Federation,2013,Female,6514.0
+Russian Federation,2017,Male,6878.0
+Russian Federation,2017,Both sexes,12145.0
+Russian Federation,2018,Female,4935.0
+Russian Federation,2016,Male,7383.0
+Russian Federation,2015,Female,5967.0
+Rwanda,2015,Male,6264.0
+Rwanda,2016,Male,6089.0
+Rwanda,2018,Both sexes,10435.0
+Rwanda,2018,Female,4628.0
+Rwanda,2017,Both sexes,10715.0
+Rwanda,2017,Male,5950.0
+Rwanda,2017,Female,4765.0
+Rwanda,2013,Female,5486.0
+Rwanda,2013,Male,6770.0
+Rwanda,2018,Male,5807.0
+Rwanda,2014,Female,5235.0
+Rwanda,2014,Male,6484.0
+Rwanda,2014,Both sexes,11719.0
+Rwanda,2015,Female,5052.0
+Rwanda,2016,Both sexes,10976.0
+Rwanda,2015,Both sexes,11316.0
+Rwanda,2016,Female,4887.0
+Rwanda,2013,Both sexes,12256.0
+Saint Kitts and Nevis,2014,Male,4.0
+Saint Kitts and Nevis,2014,Both sexes,8.0
+Saint Kitts and Nevis,2015,Female,3.0
+Saint Kitts and Nevis,2015,Male,5.0
+Saint Kitts and Nevis,2015,Both sexes,8.0
+Saint Kitts and Nevis,2016,Female,3.0
+Saint Kitts and Nevis,2017,Male,4.0
+Saint Kitts and Nevis,2016,Both sexes,7.0
+Saint Kitts and Nevis,2017,Female,3.0
+Saint Kitts and Nevis,2017,Both sexes,7.0
+Saint Kitts and Nevis,2018,Female,3.0
+Saint Kitts and Nevis,2014,Female,4.0
+Saint Kitts and Nevis,2016,Male,4.0
+Saint Kitts and Nevis,2013,Both sexes,8.0
+Saint Kitts and Nevis,2018,Male,4.0
+Saint Kitts and Nevis,2013,Female,4.0
+Saint Kitts and Nevis,2018,Both sexes,7.0
+Saint Kitts and Nevis,2013,Male,4.0
+Saint Lucia,2016,Both sexes,34.0
+Saint Lucia,2016,Male,19.0
+Saint Lucia,2016,Female,15.0
+Saint Lucia,2015,Both sexes,35.0
+Saint Lucia,2015,Male,19.0
+Saint Lucia,2015,Female,16.0
+Saint Lucia,2014,Both sexes,36.0
+Saint Lucia,2014,Male,20.0
+Saint Lucia,2014,Female,16.0
+Saint Lucia,2013,Male,20.0
+Saint Lucia,2013,Female,16.0
+Saint Lucia,2017,Female,15.0
+Saint Lucia,2017,Male,19.0
+Saint Lucia,2017,Both sexes,34.0
+Saint Lucia,2018,Male,19.0
+Saint Lucia,2018,Both sexes,33.0
+Saint Lucia,2013,Both sexes,36.0
+Saint Lucia,2018,Female,14.0
+Saint Vincent and the Grenadines,2018,Male,13.0
+Saint Vincent and the Grenadines,2017,Both sexes,24.0
+Saint Vincent and the Grenadines,2016,Both sexes,25.0
+Saint Vincent and the Grenadines,2016,Male,14.0
+Saint Vincent and the Grenadines,2016,Female,11.0
+Saint Vincent and the Grenadines,2015,Both sexes,26.0
+Saint Vincent and the Grenadines,2015,Male,14.0
+Saint Vincent and the Grenadines,2015,Female,12.0
+Saint Vincent and the Grenadines,2014,Both sexes,27.0
+Saint Vincent and the Grenadines,2014,Male,15.0
+Saint Vincent and the Grenadines,2014,Female,12.0
+Saint Vincent and the Grenadines,2018,Female,10.0
+Saint Vincent and the Grenadines,2013,Both sexes,29.0
+Saint Vincent and the Grenadines,2013,Female,13.0
+Saint Vincent and the Grenadines,2018,Both sexes,23.0
+Saint Vincent and the Grenadines,2017,Female,11.0
+Saint Vincent and the Grenadines,2017,Male,13.0
+Saint Vincent and the Grenadines,2013,Male,16.0
+Samoa,2017,Female,29.0
+Samoa,2017,Male,38.0
+Samoa,2017,Both sexes,67.0
+Samoa,2018,Male,37.0
+Samoa,2018,Both sexes,65.0
+Samoa,2018,Female,28.0
+Samoa,2013,Female,34.0
+Samoa,2014,Female,32.0
+Samoa,2013,Male,44.0
+Samoa,2013,Both sexes,78.0
+Samoa,2016,Male,40.0
+Samoa,2016,Female,30.0
+Samoa,2016,Both sexes,70.0
+Samoa,2015,Male,42.0
+Samoa,2015,Female,31.0
+Samoa,2014,Both sexes,75.0
+Samoa,2014,Male,43.0
+Samoa,2015,Both sexes,73.0
+San Marino,2015,Female,1.0
+San Marino,2013,Female,1.0
+San Marino,2013,Male,0.0
+San Marino,2013,Both sexes,1.0
+San Marino,2014,Male,0.0
+San Marino,2014,Both sexes,1.0
+San Marino,2015,Male,0.0
+San Marino,2014,Female,1.0
+San Marino,2016,Female,1.0
+San Marino,2015,Both sexes,1.0
+San Marino,2018,Male,0.0
+San Marino,2018,Female,0.0
+San Marino,2017,Both sexes,0.0
+San Marino,2018,Both sexes,0.0
+San Marino,2017,Female,0.0
+San Marino,2016,Both sexes,1.0
+San Marino,2016,Male,0.0
+San Marino,2017,Male,0.0
+Sao Tome and Principe,2013,Female,82.0
+Sao Tome and Principe,2016,Male,97.0
+Sao Tome and Principe,2013,Male,107.0
+Sao Tome and Principe,2013,Both sexes,189.0
+Sao Tome and Principe,2014,Male,104.0
+Sao Tome and Principe,2014,Both sexes,183.0
+Sao Tome and Principe,2015,Female,77.0
+Sao Tome and Principe,2015,Male,100.0
+Sao Tome and Principe,2015,Both sexes,177.0
+Sao Tome and Principe,2016,Female,74.0
+Sao Tome and Principe,2016,Both sexes,171.0
+Sao Tome and Principe,2014,Female,79.0
+Sao Tome and Principe,2017,Female,72.0
+Sao Tome and Principe,2017,Male,94.0
+Sao Tome and Principe,2017,Both sexes,166.0
+Sao Tome and Principe,2018,Female,70.0
+Sao Tome and Principe,2018,Both sexes,162.0
+Sao Tome and Principe,2018,Male,92.0
+Saudi Arabia,2016,Both sexes,4145.0
+Saudi Arabia,2016,Male,2219.0
+Saudi Arabia,2014,Both sexes,4831.0
+Saudi Arabia,2015,Both sexes,4474.0
+Saudi Arabia,2015,Male,2393.0
+Saudi Arabia,2015,Female,2081.0
+Saudi Arabia,2014,Male,2591.0
+Saudi Arabia,2014,Female,2240.0
+Saudi Arabia,2013,Both sexes,5190.0
+Saudi Arabia,2013,Female,2406.0
+Saudi Arabia,2016,Female,1926.0
+Saudi Arabia,2013,Male,2784.0
+Saudi Arabia,2018,Male,1932.0
+Saudi Arabia,2017,Female,1805.0
+Saudi Arabia,2017,Male,2060.0
+Saudi Arabia,2018,Both sexes,3620.0
+Saudi Arabia,2018,Female,1688.0
+Saudi Arabia,2017,Both sexes,3865.0
+Senegal,2016,Both sexes,17986.0
+Senegal,2016,Male,10140.0
+Senegal,2016,Female,7846.0
+Senegal,2013,Female,8411.0
+Senegal,2015,Male,10364.0
+Senegal,2015,Female,8031.0
+Senegal,2014,Both sexes,18822.0
+Senegal,2014,Male,10604.0
+Senegal,2014,Female,8218.0
+Senegal,2013,Both sexes,19239.0
+Senegal,2013,Male,10828.0
+Senegal,2015,Both sexes,18395.0
+Senegal,2018,Female,7514.0
+Senegal,2017,Male,9935.0
+Senegal,2018,Both sexes,17251.0
+Senegal,2018,Male,9737.0
+Senegal,2017,Female,7666.0
+Senegal,2017,Both sexes,17601.0
+Serbia,2017,Female,183.0
+Serbia,2017,Male,240.0
+Serbia,2017,Both sexes,423.0
+Serbia,2018,Female,174.0
+Serbia,2018,Male,229.0
+Serbia,2018,Both sexes,403.0
+Serbia,2014,Female,213.0
+Serbia,2013,Female,225.0
+Serbia,2016,Both sexes,444.0
+Serbia,2016,Male,252.0
+Serbia,2016,Female,192.0
+Serbia,2015,Both sexes,468.0
+Serbia,2015,Male,267.0
+Serbia,2015,Female,201.0
+Serbia,2014,Both sexes,496.0
+Serbia,2013,Male,300.0
+Serbia,2013,Both sexes,525.0
+Serbia,2014,Male,283.0
+Seychelles,2015,Both sexes,21.0
+Seychelles,2016,Male,12.0
+Seychelles,2017,Both sexes,20.0
+Seychelles,2018,Female,9.0
+Seychelles,2018,Male,11.0
+Seychelles,2016,Both sexes,21.0
+Seychelles,2018,Both sexes,20.0
+Seychelles,2013,Female,9.0
+Seychelles,2017,Female,9.0
+Seychelles,2013,Male,12.0
+Seychelles,2014,Female,9.0
+Seychelles,2014,Male,12.0
+Seychelles,2014,Both sexes,21.0
+Seychelles,2015,Female,9.0
+Seychelles,2015,Male,12.0
+Seychelles,2016,Female,9.0
+Seychelles,2013,Both sexes,21.0
+Seychelles,2017,Male,11.0
+Sierra Leone,2017,Both sexes,20351.0
+Sierra Leone,2018,Male,10651.0
+Sierra Leone,2018,Female,9111.0
+Sierra Leone,2017,Male,10958.0
+Sierra Leone,2018,Both sexes,19762.0
+Sierra Leone,2017,Female,9393.0
+Sierra Leone,2015,Female,10070.0
+Sierra Leone,2016,Female,9716.0
+Sierra Leone,2013,Female,10899.0
+Sierra Leone,2013,Male,12558.0
+Sierra Leone,2013,Both sexes,23457.0
+Sierra Leone,2014,Female,10463.0
+Sierra Leone,2014,Male,12097.0
+Sierra Leone,2014,Both sexes,22560.0
+Sierra Leone,2016,Both sexes,21016.0
+Sierra Leone,2016,Male,11300.0
+Sierra Leone,2015,Male,11672.0
+Sierra Leone,2015,Both sexes,21742.0
+Singapore,2014,Male,61.0
+Singapore,2018,Both sexes,114.0
+Singapore,2018,Male,64.0
+Singapore,2018,Female,50.0
+Singapore,2017,Both sexes,113.0
+Singapore,2017,Male,63.0
+Singapore,2017,Female,50.0
+Singapore,2016,Both sexes,111.0
+Singapore,2016,Female,49.0
+Singapore,2016,Male,62.0
+Singapore,2015,Male,61.0
+Singapore,2015,Female,49.0
+Singapore,2014,Both sexes,110.0
+Singapore,2014,Female,49.0
+Singapore,2013,Both sexes,109.0
+Singapore,2013,Male,61.0
+Singapore,2013,Female,48.0
+Singapore,2015,Both sexes,110.0
+Slovakia,2018,Female,116.0
+Slovakia,2018,Male,147.0
+Slovakia,2018,Both sexes,263.0
+Slovakia,2013,Female,133.0
+Slovakia,2013,Male,169.0
+Slovakia,2013,Both sexes,302.0
+Slovakia,2014,Female,129.0
+Slovakia,2015,Both sexes,287.0
+Slovakia,2015,Female,126.0
+Slovakia,2015,Male,161.0
+Slovakia,2016,Female,123.0
+Slovakia,2016,Male,156.0
+Slovakia,2016,Both sexes,279.0
+Slovakia,2014,Both sexes,294.0
+Slovakia,2017,Both sexes,272.0
+Slovakia,2014,Male,165.0
+Slovakia,2017,Female,119.0
+Slovakia,2017,Male,153.0
+Slovenia,2013,Female,21.0
+Slovenia,2013,Male,27.0
+Slovenia,2013,Both sexes,48.0
+Slovenia,2014,Female,20.0
+Slovenia,2014,Male,25.0
+Slovenia,2015,Female,19.0
+Slovenia,2015,Male,24.0
+Slovenia,2015,Both sexes,43.0
+Slovenia,2016,Female,18.0
+Slovenia,2016,Male,22.0
+Slovenia,2016,Both sexes,40.0
+Slovenia,2014,Both sexes,45.0
+Slovenia,2018,Female,16.0
+Slovenia,2017,Female,17.0
+Slovenia,2017,Male,20.0
+Slovenia,2017,Both sexes,37.0
+Slovenia,2018,Both sexes,35.0
+Slovenia,2018,Male,19.0
+Solomon Islands,2015,Male,211.0
+Solomon Islands,2015,Both sexes,375.0
+Solomon Islands,2016,Female,162.0
+Solomon Islands,2016,Both sexes,371.0
+Solomon Islands,2016,Male,209.0
+Solomon Islands,2017,Female,159.0
+Solomon Islands,2017,Male,206.0
+Solomon Islands,2017,Both sexes,365.0
+Solomon Islands,2018,Female,157.0
+Solomon Islands,2015,Female,164.0
+Solomon Islands,2018,Male,201.0
+Solomon Islands,2014,Both sexes,379.0
+Solomon Islands,2014,Female,166.0
+Solomon Islands,2014,Male,213.0
+Solomon Islands,2013,Female,167.0
+Solomon Islands,2018,Both sexes,358.0
+Solomon Islands,2013,Both sexes,381.0
+Solomon Islands,2013,Male,214.0
+Somalia,2016,Both sexes,47322.0
+Somalia,2018,Both sexes,46967.0
+Somalia,2016,Male,25775.0
+Somalia,2016,Female,21547.0
+Somalia,2015,Both sexes,47497.0
+Somalia,2015,Female,21619.0
+Somalia,2014,Both sexes,47875.0
+Somalia,2014,Male,26065.0
+Somalia,2014,Female,21810.0
+Somalia,2013,Both sexes,48245.0
+Somalia,2013,Male,26249.0
+Somalia,2013,Female,21996.0
+Somalia,2015,Male,25878.0
+Somalia,2018,Male,25617.0
+Somalia,2017,Female,21451.0
+Somalia,2017,Both sexes,47145.0
+Somalia,2017,Male,25694.0
+Somalia,2018,Female,21350.0
+South Africa,2016,Male,20080.0
+South Africa,2018,Both sexes,33653.0
+South Africa,2018,Male,18526.0
+South Africa,2018,Female,15127.0
+South Africa,2017,Both sexes,35190.0
+South Africa,2017,Male,19348.0
+South Africa,2017,Female,15842.0
+South Africa,2016,Female,16470.0
+South Africa,2015,Both sexes,37617.0
+South Africa,2015,Male,20657.0
+South Africa,2015,Female,16960.0
+South Africa,2014,Both sexes,39465.0
+South Africa,2014,Female,17825.0
+South Africa,2013,Both sexes,40896.0
+South Africa,2013,Male,22406.0
+South Africa,2013,Female,18490.0
+South Africa,2014,Male,21640.0
+South Africa,2016,Both sexes,36550.0
+South Sudan,2016,Both sexes,24174.0
+South Sudan,2016,Male,13314.0
+South Sudan,2016,Female,10860.0
+South Sudan,2015,Both sexes,24038.0
+South Sudan,2015,Male,13227.0
+South Sudan,2015,Female,10811.0
+South Sudan,2014,Both sexes,23847.0
+South Sudan,2014,Male,13116.0
+South Sudan,2013,Both sexes,23677.0
+South Sudan,2018,Both sexes,24346.0
+South Sudan,2018,Male,13386.0
+South Sudan,2018,Female,10960.0
+South Sudan,2014,Female,10731.0
+South Sudan,2017,Both sexes,24270.0
+South Sudan,2017,Male,13357.0
+South Sudan,2017,Female,10913.0
+South Sudan,2013,Female,10661.0
+South Sudan,2013,Male,13016.0
+Spain,2014,Female,544.0
+Spain,2014,Male,683.0
+Spain,2014,Both sexes,1227.0
+Spain,2015,Female,514.0
+Spain,2016,Male,618.0
+Spain,2015,Both sexes,1162.0
+Spain,2016,Female,488.0
+Spain,2013,Male,723.0
+Spain,2016,Both sexes,1106.0
+Spain,2015,Male,648.0
+Spain,2013,Both sexes,1301.0
+Spain,2013,Female,578.0
+Spain,2018,Both sexes,1008.0
+Spain,2018,Male,563.0
+Spain,2018,Female,445.0
+Spain,2017,Both sexes,1056.0
+Spain,2017,Male,590.0
+Spain,2017,Female,466.0
+Sri Lanka,2013,Both sexes,3032.0
+Sri Lanka,2014,Female,1236.0
+Sri Lanka,2014,Male,1577.0
+Sri Lanka,2015,Female,1146.0
+Sri Lanka,2015,Male,1462.0
+Sri Lanka,2015,Both sexes,2608.0
+Sri Lanka,2016,Female,1073.0
+Sri Lanka,2017,Female,1006.0
+Sri Lanka,2016,Both sexes,2431.0
+Sri Lanka,2013,Male,1701.0
+Sri Lanka,2017,Male,1273.0
+Sri Lanka,2017,Both sexes,2279.0
+Sri Lanka,2018,Female,954.0
+Sri Lanka,2018,Male,1194.0
+Sri Lanka,2018,Both sexes,2148.0
+Sri Lanka,2016,Male,1358.0
+Sri Lanka,2013,Female,1331.0
+Sri Lanka,2014,Both sexes,2813.0
+Sudan,2014,Male,33260.0
+Sudan,2016,Female,25014.0
+Sudan,2015,Both sexes,58194.0
+Sudan,2015,Male,32876.0
+Sudan,2015,Female,25318.0
+Sudan,2014,Both sexes,58874.0
+Sudan,2016,Male,32525.0
+Sudan,2014,Female,25614.0
+Sudan,2013,Both sexes,59561.0
+Sudan,2013,Male,33618.0
+Sudan,2013,Female,25943.0
+Sudan,2017,Female,24700.0
+Sudan,2017,Male,32092.0
+Sudan,2016,Both sexes,57539.0
+Sudan,2017,Both sexes,56792.0
+Sudan,2018,Female,24352.0
+Sudan,2018,Male,31670.0
+Sudan,2018,Both sexes,56022.0
+Suriname,2014,Male,119.0
+Suriname,2014,Both sexes,207.0
+Suriname,2015,Male,115.0
+Suriname,2015,Both sexes,200.0
+Suriname,2016,Female,82.0
+Suriname,2015,Female,85.0
+Suriname,2014,Female,88.0
+Suriname,2013,Female,91.0
+Suriname,2013,Male,123.0
+Suriname,2018,Both sexes,180.0
+Suriname,2018,Male,104.0
+Suriname,2018,Female,76.0
+Suriname,2017,Both sexes,186.0
+Suriname,2017,Male,107.0
+Suriname,2017,Female,79.0
+Suriname,2013,Both sexes,214.0
+Suriname,2016,Male,111.0
+Suriname,2016,Both sexes,193.0
+Sweden,2015,Male,151.0
+Sweden,2014,Male,152.0
+Sweden,2015,Both sexes,271.0
+Sweden,2016,Female,119.0
+Sweden,2013,Male,154.0
+Sweden,2016,Male,149.0
+Sweden,2016,Both sexes,268.0
+Sweden,2015,Female,120.0
+Sweden,2014,Both sexes,273.0
+Sweden,2013,Female,121.0
+Sweden,2013,Both sexes,275.0
+Sweden,2018,Both sexes,260.0
+Sweden,2018,Male,145.0
+Sweden,2018,Female,115.0
+Sweden,2017,Both sexes,265.0
+Sweden,2017,Male,148.0
+Sweden,2017,Female,117.0
+Sweden,2014,Female,121.0
+Switzerland,2013,Female,143.0
+Switzerland,2016,Both sexes,325.0
+Switzerland,2014,Female,144.0
+Switzerland,2014,Male,179.0
+Switzerland,2014,Both sexes,323.0
+Switzerland,2015,Male,179.0
+Switzerland,2015,Both sexes,324.0
+Switzerland,2016,Female,145.0
+Switzerland,2016,Male,180.0
+Switzerland,2013,Both sexes,320.0
+Switzerland,2013,Male,177.0
+Switzerland,2015,Female,145.0
+Switzerland,2017,Female,145.0
+Switzerland,2017,Male,178.0
+Switzerland,2017,Both sexes,323.0
+Switzerland,2018,Female,143.0
+Switzerland,2018,Male,177.0
+Switzerland,2018,Both sexes,320.0
+Syrian Arab Republic,2017,Female,2727.0
+Syrian Arab Republic,2013,Female,3206.0
+Syrian Arab Republic,2013,Male,4055.0
+Syrian Arab Republic,2013,Both sexes,7261.0
+Syrian Arab Republic,2014,Female,3069.0
+Syrian Arab Republic,2014,Male,3880.0
+Syrian Arab Republic,2014,Both sexes,6949.0
+Syrian Arab Republic,2015,Female,2927.0
+Syrian Arab Republic,2015,Male,3703.0
+Syrian Arab Republic,2016,Female,2838.0
+Syrian Arab Republic,2016,Male,3583.0
+Syrian Arab Republic,2016,Both sexes,6421.0
+Syrian Arab Republic,2018,Both sexes,5994.0
+Syrian Arab Republic,2018,Male,3352.0
+Syrian Arab Republic,2018,Female,2642.0
+Syrian Arab Republic,2017,Both sexes,6175.0
+Syrian Arab Republic,2017,Male,3448.0
+Syrian Arab Republic,2015,Both sexes,6630.0
+Tajikistan,2015,Male,5095.0
+Tajikistan,2016,Both sexes,8770.0
+Tajikistan,2016,Male,5060.0
+Tajikistan,2016,Female,3710.0
+Tajikistan,2015,Both sexes,8839.0
+Tajikistan,2015,Female,3744.0
+Tajikistan,2013,Female,3732.0
+Tajikistan,2014,Male,5099.0
+Tajikistan,2014,Female,3742.0
+Tajikistan,2013,Both sexes,8823.0
+Tajikistan,2013,Male,5091.0
+Tajikistan,2018,Both sexes,8449.0
+Tajikistan,2018,Male,4877.0
+Tajikistan,2018,Female,3572.0
+Tajikistan,2017,Both sexes,8645.0
+Tajikistan,2017,Male,4987.0
+Tajikistan,2017,Female,3658.0
+Tajikistan,2014,Both sexes,8841.0
+Thailand,2018,Both sexes,5625.0
+Thailand,2018,Male,3201.0
+Thailand,2018,Female,2424.0
+Thailand,2017,Both sexes,5961.0
+Thailand,2013,Female,3250.0
+Thailand,2017,Male,3393.0
+Thailand,2014,Male,4066.0
+Thailand,2013,Male,4332.0
+Thailand,2015,Female,2886.0
+Thailand,2015,Male,3826.0
+Thailand,2015,Both sexes,6712.0
+Thailand,2016,Female,2717.0
+Thailand,2013,Both sexes,7582.0
+Thailand,2016,Male,3608.0
+Thailand,2016,Both sexes,6325.0
+Thailand,2017,Female,2568.0
+Thailand,2014,Female,3066.0
+Thailand,2014,Both sexes,7132.0
+Timor-Leste,2017,Female,651.0
+Timor-Leste,2017,Both sexes,1469.0
+Timor-Leste,2018,Female,642.0
+Timor-Leste,2016,Both sexes,1485.0
+Timor-Leste,2018,Both sexes,1448.0
+Timor-Leste,2016,Male,825.0
+Timor-Leste,2016,Female,660.0
+Timor-Leste,2015,Both sexes,1505.0
+Timor-Leste,2015,Male,836.0
+Timor-Leste,2015,Female,669.0
+Timor-Leste,2014,Both sexes,1524.0
+Timor-Leste,2014,Male,845.0
+Timor-Leste,2014,Female,679.0
+Timor-Leste,2017,Male,818.0
+Timor-Leste,2013,Both sexes,1558.0
+Timor-Leste,2013,Male,864.0
+Timor-Leste,2013,Female,694.0
+Timor-Leste,2018,Male,806.0
+Togo,2017,Male,6911.0
+Togo,2017,Both sexes,12419.0
+Togo,2018,Female,5410.0
+Togo,2018,Male,6806.0
+Togo,2018,Both sexes,12216.0
+Togo,2017,Female,5508.0
+Togo,2013,Female,5878.0
+Togo,2016,Both sexes,12610.0
+Togo,2016,Male,7016.0
+Togo,2016,Female,5594.0
+Togo,2015,Both sexes,12818.0
+Togo,2015,Male,7131.0
+Togo,2015,Female,5687.0
+Togo,2014,Both sexes,13017.0
+Togo,2014,Male,7234.0
+Togo,2014,Female,5783.0
+Togo,2013,Both sexes,13224.0
+Togo,2013,Male,7346.0
+Tonga,2013,Male,18.0
+Tonga,2016,Both sexes,36.0
+Tonga,2018,Both sexes,34.0
+Tonga,2018,Male,15.0
+Tonga,2018,Female,19.0
+Tonga,2017,Both sexes,35.0
+Tonga,2017,Male,16.0
+Tonga,2017,Female,19.0
+Tonga,2016,Male,16.0
+Tonga,2016,Female,20.0
+Tonga,2015,Both sexes,38.0
+Tonga,2015,Male,17.0
+Tonga,2015,Female,21.0
+Tonga,2014,Both sexes,39.0
+Tonga,2014,Male,17.0
+Tonga,2013,Both sexes,40.0
+Tonga,2013,Female,22.0
+Tonga,2014,Female,22.0
+Trinidad and Tobago,2017,Male,174.0
+Trinidad and Tobago,2017,Female,138.0
+Trinidad and Tobago,2016,Both sexes,330.0
+Trinidad and Tobago,2018,Male,165.0
+Trinidad and Tobago,2018,Both sexes,296.0
+Trinidad and Tobago,2018,Female,131.0
+Trinidad and Tobago,2013,Female,167.0
+Trinidad and Tobago,2013,Male,212.0
+Trinidad and Tobago,2013,Both sexes,379.0
+Trinidad and Tobago,2014,Female,160.0
+Trinidad and Tobago,2017,Both sexes,312.0
+Trinidad and Tobago,2014,Both sexes,363.0
+Trinidad and Tobago,2015,Female,153.0
+Trinidad and Tobago,2015,Male,194.0
+Trinidad and Tobago,2016,Male,185.0
+Trinidad and Tobago,2016,Female,145.0
+Trinidad and Tobago,2015,Both sexes,347.0
+Trinidad and Tobago,2014,Male,203.0
+Tunisia,2018,Both sexes,2978.0
+Tunisia,2018,Male,1666.0
+Tunisia,2018,Female,1312.0
+Tunisia,2017,Both sexes,3028.0
+Tunisia,2017,Male,1694.0
+Tunisia,2017,Female,1334.0
+Tunisia,2013,Female,1348.0
+Tunisia,2014,Male,1735.0
+Tunisia,2013,Both sexes,3082.0
+Tunisia,2014,Female,1355.0
+Tunisia,2014,Both sexes,3090.0
+Tunisia,2015,Female,1354.0
+Tunisia,2015,Male,1728.0
+Tunisia,2015,Both sexes,3082.0
+Tunisia,2016,Female,1347.0
+Tunisia,2016,Male,1714.0
+Tunisia,2016,Both sexes,3061.0
+Tunisia,2013,Male,1734.0
+Turkey,2017,Male,6889.0
+Turkey,2017,Both sexes,12681.0
+Turkey,2018,Female,5465.0
+Turkey,2018,Male,6477.0
+Turkey,2018,Both sexes,11942.0
+Turkey,2017,Female,5792.0
+Turkey,2015,Female,6505.0
+Turkey,2013,Male,8638.0
+Turkey,2016,Both sexes,13447.0
+Turkey,2016,Male,7306.0
+Turkey,2013,Female,7336.0
+Turkey,2015,Both sexes,14239.0
+Turkey,2015,Male,7734.0
+Turkey,2016,Female,6141.0
+Turkey,2014,Both sexes,15070.0
+Turkey,2014,Male,8183.0
+Turkey,2014,Female,6887.0
+Turkey,2013,Both sexes,15974.0
+Turkmenistan,2018,Both sexes,5476.0
+Turkmenistan,2018,Male,3168.0
+Turkmenistan,2018,Female,2308.0
+Turkmenistan,2017,Both sexes,5734.0
+Turkmenistan,2017,Male,3319.0
+Turkmenistan,2017,Female,2415.0
+Turkmenistan,2014,Both sexes,6344.0
+Turkmenistan,2015,Female,2607.0
+Turkmenistan,2013,Both sexes,6436.0
+Turkmenistan,2015,Male,3575.0
+Turkmenistan,2015,Both sexes,6182.0
+Turkmenistan,2016,Female,2513.0
+Turkmenistan,2016,Male,3456.0
+Turkmenistan,2016,Both sexes,5969.0
+Turkmenistan,2014,Male,3669.0
+Turkmenistan,2014,Female,2675.0
+Turkmenistan,2013,Male,3721.0
+Turkmenistan,2013,Female,2715.0
+Tuvalu,2014,Female,3.0
+Tuvalu,2013,Both sexes,7.0
+Tuvalu,2013,Male,4.0
+Tuvalu,2013,Female,3.0
+Tuvalu,2018,Male,3.0
+Tuvalu,2014,Male,4.0
+Tuvalu,2018,Female,3.0
+Tuvalu,2014,Both sexes,7.0
+Tuvalu,2016,Male,3.0
+Tuvalu,2015,Male,3.0
+Tuvalu,2015,Both sexes,6.0
+Tuvalu,2016,Female,3.0
+Tuvalu,2018,Both sexes,6.0
+Tuvalu,2016,Both sexes,6.0
+Tuvalu,2017,Female,3.0
+Tuvalu,2015,Female,3.0
+Tuvalu,2017,Male,3.0
+Tuvalu,2017,Both sexes,6.0
+Uganda,2014,Male,34297.0
+Uganda,2017,Female,24653.0
+Uganda,2014,Female,27308.0
+Uganda,2017,Male,31168.0
+Uganda,2017,Both sexes,55821.0
+Uganda,2018,Female,24001.0
+Uganda,2018,Male,30356.0
+Uganda,2018,Both sexes,54357.0
+Uganda,2013,Male,35690.0
+Uganda,2013,Female,28483.0
+Uganda,2014,Both sexes,61605.0
+Uganda,2015,Female,26415.0
+Uganda,2015,Male,33223.0
+Uganda,2015,Both sexes,59638.0
+Uganda,2016,Female,25471.0
+Uganda,2016,Male,32112.0
+Uganda,2016,Both sexes,57583.0
+Uganda,2013,Both sexes,64173.0
+Ukraine,2018,Both sexes,3199.0
+Ukraine,2016,Both sexes,3600.0
+Ukraine,2015,Male,2166.0
+Ukraine,2018,Male,1815.0
+Ukraine,2017,Both sexes,3394.0
+Ukraine,2017,Male,1926.0
+Ukraine,2017,Female,1468.0
+Ukraine,2016,Female,1556.0
+Ukraine,2015,Female,1648.0
+Ukraine,2014,Both sexes,4037.0
+Ukraine,2014,Male,2293.0
+Ukraine,2014,Female,1744.0
+Ukraine,2013,Both sexes,4270.0
+Ukraine,2013,Male,2431.0
+Ukraine,2013,Female,1839.0
+Ukraine,2015,Both sexes,3814.0
+Ukraine,2018,Female,1384.0
+Ukraine,2016,Male,2044.0
+United Arab Emirates,2014,Both sexes,682.0
+United Arab Emirates,2016,Female,292.0
+United Arab Emirates,2015,Both sexes,678.0
+United Arab Emirates,2013,Female,297.0
+United Arab Emirates,2013,Male,387.0
+United Arab Emirates,2013,Both sexes,684.0
+United Arab Emirates,2014,Female,297.0
+United Arab Emirates,2016,Male,379.0
+United Arab Emirates,2016,Both sexes,671.0
+United Arab Emirates,2014,Male,385.0
+United Arab Emirates,2018,Both sexes,651.0
+United Arab Emirates,2015,Female,295.0
+United Arab Emirates,2017,Female,288.0
+United Arab Emirates,2017,Male,374.0
+United Arab Emirates,2015,Male,383.0
+United Arab Emirates,2018,Female,285.0
+United Arab Emirates,2017,Both sexes,662.0
+United Arab Emirates,2018,Male,366.0
+United Kingdom of Great Britain and Northern Ireland,2014,Female,1350.0
+United Kingdom of Great Britain and Northern Ireland,2013,Both sexes,3169.0
+United Kingdom of Great Britain and Northern Ireland,2013,Male,1786.0
+United Kingdom of Great Britain and Northern Ireland,2013,Female,1383.0
+United Kingdom of Great Britain and Northern Ireland,2015,Female,1317.0
+United Kingdom of Great Britain and Northern Ireland,2015,Male,1693.0
+United Kingdom of Great Britain and Northern Ireland,2015,Both sexes,3010.0
+United Kingdom of Great Britain and Northern Ireland,2016,Female,1293.0
+United Kingdom of Great Britain and Northern Ireland,2016,Male,1654.0
+United Kingdom of Great Britain and Northern Ireland,2016,Both sexes,2947.0
+United Kingdom of Great Britain and Northern Ireland,2017,Female,1266.0
+United Kingdom of Great Britain and Northern Ireland,2017,Male,1620.0
+United Kingdom of Great Britain and Northern Ireland,2017,Both sexes,2886.0
+United Kingdom of Great Britain and Northern Ireland,2018,Female,1237.0
+United Kingdom of Great Britain and Northern Ireland,2018,Male,1583.0
+United Kingdom of Great Britain and Northern Ireland,2018,Both sexes,2820.0
+United Kingdom of Great Britain and Northern Ireland,2014,Male,1733.0
+United Kingdom of Great Britain and Northern Ireland,2014,Both sexes,3083.0
+United Republic of Tanzania,2018,Male,42053.0
+United Republic of Tanzania,2018,Female,34591.0
+United Republic of Tanzania,2017,Both sexes,77483.0
+United Republic of Tanzania,2017,Male,42505.0
+United Republic of Tanzania,2017,Female,34978.0
+United Republic of Tanzania,2016,Both sexes,79571.0
+United Republic of Tanzania,2016,Female,35987.0
+United Republic of Tanzania,2015,Male,44023.0
+United Republic of Tanzania,2015,Female,36499.0
+United Republic of Tanzania,2014,Both sexes,81234.0
+United Republic of Tanzania,2014,Male,44402.0
+United Republic of Tanzania,2014,Female,36832.0
+United Republic of Tanzania,2013,Both sexes,81403.0
+United Republic of Tanzania,2013,Male,44446.0
+United Republic of Tanzania,2013,Female,36957.0
+United Republic of Tanzania,2018,Both sexes,76644.0
+United Republic of Tanzania,2016,Male,43584.0
+United Republic of Tanzania,2015,Both sexes,80522.0
+United States of America,2014,Male,12846.0
+United States of America,2016,Male,12454.0
+United States of America,2016,Both sexes,22424.0
+United States of America,2017,Female,9852.0
+United States of America,2017,Male,12307.0
+United States of America,2018,Female,9724.0
+United States of America,2018,Male,12149.0
+United States of America,2018,Both sexes,21873.0
+United States of America,2013,Male,13148.0
+United States of America,2017,Both sexes,22159.0
+United States of America,2014,Female,10263.0
+United States of America,2016,Female,9970.0
+United States of America,2013,Both sexes,23596.0
+United States of America,2015,Both sexes,22726.0
+United States of America,2015,Male,12621.0
+United States of America,2013,Female,10448.0
+United States of America,2015,Female,10105.0
+United States of America,2014,Both sexes,23109.0
+Uruguay,2015,Both sexes,364.0
+Uruguay,2015,Female,156.0
+Uruguay,2014,Both sexes,381.0
+Uruguay,2016,Female,149.0
+Uruguay,2014,Male,218.0
+Uruguay,2014,Female,163.0
+Uruguay,2013,Both sexes,396.0
+Uruguay,2013,Male,226.0
+Uruguay,2013,Female,170.0
+Uruguay,2015,Male,208.0
+Uruguay,2017,Male,186.0
+Uruguay,2017,Female,141.0
+Uruguay,2017,Both sexes,327.0
+Uruguay,2018,Female,134.0
+Uruguay,2018,Male,174.0
+Uruguay,2018,Both sexes,308.0
+Uruguay,2016,Both sexes,346.0
+Uruguay,2016,Male,197.0
+Uzbekistan,2017,Female,5848.0
+Uzbekistan,2018,Female,5506.0
+Uzbekistan,2018,Male,7813.0
+Uzbekistan,2018,Both sexes,13319.0
+Uzbekistan,2017,Male,8304.0
+Uzbekistan,2017,Both sexes,14152.0
+Uzbekistan,2016,Both sexes,15031.0
+Uzbekistan,2013,Male,10460.0
+Uzbekistan,2013,Both sexes,17834.0
+Uzbekistan,2014,Female,7001.0
+Uzbekistan,2014,Male,9911.0
+Uzbekistan,2014,Both sexes,16912.0
+Uzbekistan,2015,Female,6610.0
+Uzbekistan,2015,Male,9369.0
+Uzbekistan,2015,Both sexes,15979.0
+Uzbekistan,2016,Female,6217.0
+Uzbekistan,2016,Male,8814.0
+Uzbekistan,2013,Female,7374.0
+Vanuatu,2016,Male,109.0
+Vanuatu,2016,Female,87.0
+Vanuatu,2018,Both sexes,191.0
+Vanuatu,2018,Female,85.0
+Vanuatu,2017,Both sexes,194.0
+Vanuatu,2018,Male,106.0
+Vanuatu,2017,Female,86.0
+Vanuatu,2015,Both sexes,197.0
+Vanuatu,2015,Male,109.0
+Vanuatu,2015,Female,88.0
+Vanuatu,2014,Both sexes,198.0
+Vanuatu,2014,Male,110.0
+Vanuatu,2017,Male,108.0
+Vanuatu,2013,Both sexes,197.0
+Vanuatu,2013,Male,109.0
+Vanuatu,2014,Female,88.0
+Vanuatu,2013,Female,88.0
+Vanuatu,2016,Both sexes,196.0
+Venezuela (Bolivarian Republic of),2016,Both sexes,11795.0
+Venezuela (Bolivarian Republic of),2015,Female,4115.0
+Venezuela (Bolivarian Republic of),2016,Male,6524.0
+Venezuela (Bolivarian Republic of),2016,Female,5271.0
+Venezuela (Bolivarian Republic of),2013,Male,4918.0
+Venezuela (Bolivarian Republic of),2014,Both sexes,8522.0
+Venezuela (Bolivarian Republic of),2015,Both sexes,9445.0
+Venezuela (Bolivarian Republic of),2014,Male,4866.0
+Venezuela (Bolivarian Republic of),2014,Female,3656.0
+Venezuela (Bolivarian Republic of),2013,Both sexes,8625.0
+Venezuela (Bolivarian Republic of),2013,Female,3707.0
+Venezuela (Bolivarian Republic of),2015,Male,5330.0
+Venezuela (Bolivarian Republic of),2018,Male,6250.0
+Venezuela (Bolivarian Republic of),2017,Female,5156.0
+Venezuela (Bolivarian Republic of),2017,Male,6380.0
+Venezuela (Bolivarian Republic of),2017,Both sexes,11536.0
+Venezuela (Bolivarian Republic of),2018,Female,5049.0
+Venezuela (Bolivarian Republic of),2018,Both sexes,11299.0
+Viet Nam,2017,Female,10843.0
+Viet Nam,2017,Male,16154.0
+Viet Nam,2017,Both sexes,26997.0
+Viet Nam,2018,Female,10597.0
+Viet Nam,2018,Male,15752.0
+Viet Nam,2018,Both sexes,26349.0
+Viet Nam,2015,Male,16627.0
+Viet Nam,2015,Both sexes,27738.0
+Viet Nam,2013,Female,11161.0
+Viet Nam,2013,Both sexes,27871.0
+Viet Nam,2014,Female,11148.0
+Viet Nam,2014,Male,16685.0
+Viet Nam,2014,Both sexes,27833.0
+Viet Nam,2015,Female,11111.0
+Viet Nam,2016,Both sexes,27466.0
+Viet Nam,2016,Male,16453.0
+Viet Nam,2016,Female,11013.0
+Viet Nam,2013,Male,16710.0
+Yemen,2017,Female,16244.0
+Yemen,2018,Both sexes,36893.0
+Yemen,2018,Male,20570.0
+Yemen,2018,Female,16323.0
+Yemen,2017,Both sexes,36700.0
+Yemen,2013,Both sexes,35410.0
+Yemen,2016,Both sexes,36468.0
+Yemen,2016,Male,20336.0
+Yemen,2016,Female,16132.0
+Yemen,2015,Both sexes,36182.0
+Yemen,2015,Male,20179.0
+Yemen,2015,Female,16003.0
+Yemen,2014,Both sexes,35830.0
+Yemen,2014,Male,19976.0
+Yemen,2014,Female,15854.0
+Yemen,2013,Male,19737.0
+Yemen,2013,Female,15673.0
+Yemen,2017,Male,20456.0
+Zambia,2013,Female,12415.0
+Zambia,2018,Both sexes,25069.0
+Zambia,2018,Male,13899.0
+Zambia,2015,Male,14632.0
+Zambia,2017,Both sexes,25324.0
+Zambia,2017,Male,14031.0
+Zambia,2013,Male,15311.0
+Zambia,2018,Female,11170.0
+Zambia,2013,Both sexes,27726.0
+Zambia,2016,Female,11567.0
+Zambia,2014,Male,14893.0
+Zambia,2014,Both sexes,26942.0
+Zambia,2015,Female,11803.0
+Zambia,2015,Both sexes,26435.0
+Zambia,2017,Female,11293.0
+Zambia,2016,Male,14357.0
+Zambia,2016,Both sexes,25924.0
+Zambia,2014,Female,12049.0
+Zimbabwe,2018,Male,8469.0
+Zimbabwe,2017,Both sexes,16015.0
+Zimbabwe,2018,Both sexes,15043.0
+Zimbabwe,2018,Female,6574.0
+Zimbabwe,2013,Male,11363.0
+Zimbabwe,2013,Female,8902.0
+Zimbabwe,2016,Both sexes,16693.0
+Zimbabwe,2016,Male,9396.0
+Zimbabwe,2016,Female,7297.0
+Zimbabwe,2015,Both sexes,18006.0
+Zimbabwe,2015,Male,10121.0
+Zimbabwe,2015,Female,7885.0
+Zimbabwe,2014,Both sexes,19051.0
+Zimbabwe,2014,Male,10707.0
+Zimbabwe,2014,Female,8344.0
+Zimbabwe,2013,Both sexes,20265.0
+Zimbabwe,2017,Male,9010.0
+Zimbabwe,2017,Female,7005.0
